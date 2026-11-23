@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { background: #F7F5F0; color: #1C1B18; font-family: theme(fontFamily.sans); -webkit-font-smoothing: antialiased; }
+  h1, h2, h3 { font-family: theme(fontFamily.serif); letter-spacing: -0.03em; font-weight: 500; line-height: 1.08; }
+  a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px solid #1C1B18; outline-offset: 2px; }
+  ::selection { background: #E9C9B8; }
+}
+@layer components {
+  .rule { border-color: #D8D2C5; }
+  .btn { @apply inline-flex items-center gap-2 px-4 py-2.5 text-sm font-semibold border border-clay bg-clay text-paper hover:bg-clay-dark hover:border-clay-dark transition-colors; }
+  .btn-quiet { @apply inline-flex items-center gap-2 px-4 py-2.5 text-sm font-semibold border border-rule bg-transparent text-ink hover:bg-stone transition-colors; }
+  .tick { @apply font-mono text-[11px] uppercase tracking-wider text-muted; }
+  .chip { @apply px-3 py-1.5 text-sm border border-rule text-ink hover:bg-stone transition-colors; }
+  .chip[aria-pressed="true"] { @apply border-clay text-clay font-semibold; }
+}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
