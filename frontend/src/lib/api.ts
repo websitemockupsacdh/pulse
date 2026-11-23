@@ -21,12 +21,10 @@ export function useApi<T>(path: string, params: Record<string, string | undefine
     return () => { live = false; };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [key, tick]);
-  // Server-Sent Events: refetch when the backend reports new items.
+  // Serverless hosts cannot hold a stream open, so poll once a minute while the tab is visible.
   useEffect(() => {
-    if (typeof EventSource === "undefined") return;
-    const es = new EventSource(`${BASE}/api/stream`);
-    es.addEventListener("update", () => setTick((t) => t + 1));
-    return () => es.close();
+    const id = setInterval(() => { if (document.visibilityState === "visible") setTick((t) => t + 1); }, 60_000);
+    return () => clearInterval(id);
   }, []);
   return { data, error, loading: !data && !error };
 }

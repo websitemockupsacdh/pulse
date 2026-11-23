@@ -9,7 +9,7 @@ Public trend discovery for the Philippines. React + Vite + TS + Tailwind fronten
     uvicorn app.main:app --reload
     cd ../frontend && npm install && npm run dev   # proxies /api to :8000
 
-Production: set `VITE_API_BASE`, `DATABASE_URL` (Postgres), `REDIS_URL`; run `celery -A app.tasks worker -B`.
+Vercel: see DEPLOY.md. Self-hosted: set `VITE_API_BASE`, `DATABASE_URL` (Postgres), `REDIS_URL`; run `celery -A app.tasks worker -B`.
 
 ## Architecture
 - `connectors/`: one class per source type (rss, youtube, reddit, social_unavailable). Register in `registry.py`. Publishers are rows in `sources`, not code.
