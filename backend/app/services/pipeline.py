@@ -58,5 +58,15 @@ def ingest_source(db: Session, source: Source) -> int:
     return added
 
 
-def ingest_all(db: Session) -> dict[str, int]:
-    return {s.slug: ingest_source(db, s) for s in db.scalars(select(Source).where(Source.enabled))}
+def ingest_all(db: Session, budget_s: float | None = None) -> dict[str, int]:
+    """Stalest sources first. Stops when the time budget is spent so serverless calls finish in time."""
+    import time
+    start = time.monotonic()
+    srcs = sorted(db.scalars(select(Source).where(Source.enabled)),
+                  key=lambda s: (s.last_run_at is not None, s.last_run_at or 0) if s.last_run_at is None else (True, s.last_run_at.timestamp()))
+    out: dict[str, int] = {}
+    for s in srcs:
+        if budget_s is not None and time.monotonic() - start > budget_s:
+            break
+        out[s.slug] = ingest_source(db, s)
+    return out

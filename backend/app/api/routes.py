@@ -2,11 +2,12 @@ import asyncio
 import json
 from datetime import datetime, timedelta, timezone
 
-from fastapi import APIRouter, Depends, HTTPException, Query
+from fastapi import APIRouter, Depends, Header, HTTPException, Query
 from fastapi.responses import StreamingResponse
 from sqlalchemy import desc, select
 from sqlalchemy.orm import Session
 
+from ..config import settings
 from ..db import SessionLocal, get_db
 from ..models import Item, PageSection, Source, Topic
 from ..services import search as search_svc
@@ -124,6 +125,18 @@ def topic_explorer(slug: str, db: Session = Depends(get_db)):
 @router.get("/sources", response_model=list[SourceOut])
 def sources(db: Session = Depends(get_db)):
     return list(db.scalars(select(Source).order_by(Source.kind, Source.name)))
+
+
+@router.get("/cron/ingest")
+def cron_ingest(authorization: str | None = Header(None), db: Session = Depends(get_db)):
+    """Collect from sources and refresh trends. Called by a scheduler with `Authorization: Bearer $CRON_SECRET`."""
+    import hmac
+    from ..services.pipeline import ingest_all
+    from ..services.trends import refresh_topics
+    if not settings.cron_secret or not hmac.compare_digest(authorization or "", f"Bearer {settings.cron_secret}"):
+        raise HTTPException(401, "unauthorized")
+    result = ingest_all(db, budget_s=settings.ingest_budget_s)
+    return {"ingested": result, "topics_refreshed": refresh_topics(db)}
 
 
 @router.get("/stream")

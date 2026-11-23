@@ -9,6 +9,8 @@ class Settings(BaseSettings):
     opensearch_url: str = ""
     youtube_api_key: str = ""
     sentry_dsn: str = ""
+    cron_secret: str = ""
+    ingest_budget_s: float = 45.0
     cors_origins: str = "http://localhost:5173"
     trend_emerging_max_age_h: float = 3
     trend_rising_velocity: float = 1.5

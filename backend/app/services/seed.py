@@ -20,6 +20,9 @@ SOURCES = [
     ("pagasa", "PAGASA", "rss", "official", "", {"category": "weather", "kind": "official"}),
     ("phivolcs", "PHIVOLCS", "rss", "official", "", {"category": "weather", "kind": "official"}),
     ("ndrrmc", "NDRRMC", "rss", "official", "", {"category": "weather", "kind": "official"}),
+    # Free public-domain UN/EC disaster alerts, filtered to the Philippines. Not a substitute for PAGASA or PHIVOLCS.
+    ("gdacs", "GDACS (UN/EC)", "rss", "official", "https://www.gdacs.org/xml/rss.xml",
+     {"category": "weather", "kind": "official", "filter_contains": "Philippines"}),
     ("x", "X", "social_unavailable", "social", "https://x.com", {"platform": "X"}),
     ("threads", "Threads", "social_unavailable", "social", "https://threads.net", {"platform": "Threads"}),
     ("facebook", "Facebook", "social_unavailable", "social", "https://facebook.com", {"platform": "Facebook"}),

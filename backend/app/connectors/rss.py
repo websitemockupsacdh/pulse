@@ -38,6 +38,10 @@ class RSSConnector(Connector):
             link, title = e.get("link"), clean(e.get("title", ""), 512)
             if not link or not title:
                 continue
+            needle = self.config.get("filter_contains")
+            if needle and needle.lower() not in (title + " " + e.get("summary", "") + " " + str(e.get("gdacs_country", ""))).lower():
+                continue
+            level = e.get("gdacs_alertlevel")
             ts = e.get("published_parsed") or e.get("updated_parsed")
             published = datetime.fromtimestamp(mktime(ts), tz=timezone.utc) if ts else datetime.now(timezone.utc)
             out.append(RawItem(
@@ -46,5 +50,6 @@ class RSSConnector(Connector):
                 kind=self.config.get("kind", "news"),
                 category=self.config.get("category"),
                 syndicated=bool(self.config.get("syndicated", False)),
+                severity=f"{level} alert level (GDACS)" if level else None,
             ))
         return out
