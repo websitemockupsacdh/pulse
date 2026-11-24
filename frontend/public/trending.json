@@ -1,0 +1,1953 @@
+{
+ "generatedAt": "2026-11-24T08:11:06+00:00",
+ "sources": [
+  {
+   "id": "gtrends-ph",
+   "name": "Google Trends PH",
+   "category": "trending",
+   "region": "PH",
+   "status": "ok",
+   "count": 10
+  },
+  {
+   "id": "wiki-en",
+   "name": "Wikipedia (EN) most viewed",
+   "category": "trending",
+   "region": "INTL",
+   "status": "ok",
+   "count": 15
+  },
+  {
+   "id": "wiki-tl",
+   "name": "Wikipedia (TL) most viewed",
+   "category": "trending",
+   "region": "PH",
+   "status": "ok",
+   "count": 10
+  },
+  {
+   "id": "reddit-ph",
+   "name": "r/Philippines",
+   "category": "social",
+   "region": "PH",
+   "status": "error: HTTPError",
+   "count": 0
+  },
+  {
+   "id": "reddit-popular",
+   "name": "Reddit r/popular",
+   "category": "social",
+   "region": "INTL",
+   "status": "error: HTTPError",
+   "count": 0
+  },
+  {
+   "id": "reddit-chikaph",
+   "name": "r/ChikaPH",
+   "category": "social",
+   "region": "PH",
+   "status": "error: HTTPError",
+   "count": 0
+  },
+  {
+   "id": "bbc",
+   "name": "BBC News",
+   "category": "news",
+   "region": "INTL",
+   "status": "ok",
+   "count": 10
+  },
+  {
+   "id": "aljazeera",
+   "name": "Al Jazeera",
+   "category": "news",
+   "region": "INTL",
+   "status": "ok",
+   "count": 10
+  },
+  {
+   "id": "gma",
+   "name": "GMA News",
+   "category": "news",
+   "region": "PH",
+   "status": "ok",
+   "count": 10
+  },
+  {
+   "id": "inquirer",
+   "name": "Inquirer.net",
+   "category": "news",
+   "region": "PH",
+   "status": "ok",
+   "count": 10
+  },
+  {
+   "id": "philstar",
+   "name": "Philstar",
+   "category": "news",
+   "region": "PH",
+   "status": "ok",
+   "count": 10
+  },
+  {
+   "id": "rappler",
+   "name": "Rappler",
+   "category": "news",
+   "region": "PH",
+   "status": "ok",
+   "count": 10
+  },
+  {
+   "id": "espn",
+   "name": "ESPN",
+   "category": "sports",
+   "region": "INTL",
+   "status": "ok",
+   "count": 10
+  },
+  {
+   "id": "usgs-ph",
+   "name": "USGS Earthquakes (PH area)",
+   "category": "disaster",
+   "region": "PH",
+   "status": "ok",
+   "count": 0
+  },
+  {
+   "id": "fx-usd-php",
+   "name": "USD/PHP",
+   "category": "currency",
+   "region": "PH",
+   "status": "ok",
+   "count": 1
+  },
+  {
+   "id": "verge",
+   "name": "The Verge",
+   "category": "tech",
+   "region": "INTL",
+   "status": "ok",
+   "count": 8
+  },
+  {
+   "id": "techcrunch",
+   "name": "TechCrunch",
+   "category": "tech",
+   "region": "INTL",
+   "status": "ok",
+   "count": 8
+  },
+  {
+   "id": "ars",
+   "name": "Ars Technica",
+   "category": "tech",
+   "region": "INTL",
+   "status": "ok",
+   "count": 8
+  },
+  {
+   "id": "variety",
+   "name": "Variety",
+   "category": "entertainment",
+   "region": "INTL",
+   "status": "ok",
+   "count": 8
+  }
+ ],
+ "items": [
+  {
+   "title": "coronation night miss universe",
+   "url": "https://www.google.com/search?q=coronation+night+miss+universe",
+   "source": "Google Trends PH",
+   "sourceId": "gtrends-ph",
+   "category": "trending",
+   "region": "PH",
+   "rank": 1,
+   "extra": {
+    "traffic": "2000+"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "pvl",
+   "url": "https://www.google.com/search?q=pvl",
+   "source": "Google Trends PH",
+   "sourceId": "gtrends-ph",
+   "category": "trending",
+   "region": "PH",
+   "rank": 2,
+   "extra": {
+    "traffic": "1000+"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "suspension of classes",
+   "url": "https://www.google.com/search?q=suspension+of+classes",
+   "source": "Google Trends PH",
+   "sourceId": "gtrends-ph",
+   "category": "trending",
+   "region": "PH",
+   "rank": 3,
+   "extra": {
+    "traffic": "200+"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "supreme court",
+   "url": "https://www.google.com/search?q=supreme+court",
+   "source": "Google Trends PH",
+   "sourceId": "gtrends-ph",
+   "category": "trending",
+   "region": "PH",
+   "rank": 4,
+   "extra": {
+    "traffic": "200+"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "alan peter cayetano national debt proposal",
+   "url": "https://www.google.com/search?q=alan+peter+cayetano+national+debt+proposal",
+   "source": "Google Trends PH",
+   "sourceId": "gtrends-ph",
+   "category": "trending",
+   "region": "PH",
+   "rank": 5,
+   "extra": {
+    "traffic": "500+"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "devin vassell",
+   "url": "https://www.google.com/search?q=devin+vassell",
+   "source": "Google Trends PH",
+   "sourceId": "gtrends-ph",
+   "category": "trending",
+   "region": "PH",
+   "rank": 6,
+   "extra": {
+    "traffic": "100+"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "luke kornet",
+   "url": "https://www.google.com/search?q=luke+kornet",
+   "source": "Google Trends PH",
+   "sourceId": "gtrends-ph",
+   "category": "trending",
+   "region": "PH",
+   "rank": 7,
+   "extra": {
+    "traffic": "200+"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "lakers vs utah jazz timeline",
+   "url": "https://www.google.com/search?q=lakers+vs+utah+jazz+timeline",
+   "source": "Google Trends PH",
+   "sourceId": "gtrends-ph",
+   "category": "trending",
+   "region": "PH",
+   "rank": 8,
+   "extra": {
+    "traffic": "500+"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "international criminal court",
+   "url": "https://www.google.com/search?q=international+criminal+court",
+   "source": "Google Trends PH",
+   "sourceId": "gtrends-ph",
+   "category": "trending",
+   "region": "PH",
+   "rank": 9,
+   "extra": {
+    "traffic": "200+"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "cameron carr",
+   "url": "https://www.google.com/search?q=cameron+carr",
+   "source": "Google Trends PH",
+   "sourceId": "gtrends-ph",
+   "category": "trending",
+   "region": "PH",
+   "rank": 10,
+   "extra": {
+    "traffic": "200+"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Grand Theft Auto VI",
+   "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+   "source": "Wikipedia (EN) most viewed",
+   "sourceId": "wiki-en",
+   "category": "trending",
+   "region": "INTL",
+   "rank": 1,
+   "extra": {
+    "views": 266240
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Jensen Huang",
+   "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+   "source": "Wikipedia (EN) most viewed",
+   "sourceId": "wiki-en",
+   "category": "trending",
+   "region": "INTL",
+   "rank": 2,
+   "extra": {
+    "views": 234343
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Moon",
+   "url": "https://en.wikipedia.org/wiki/Moon",
+   "source": "Wikipedia (EN) most viewed",
+   "sourceId": "wiki-en",
+   "category": "trending",
+   "region": "INTL",
+   "rank": 3,
+   "extra": {
+    "views": 180275
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Linux",
+   "url": "https://en.wikipedia.org/wiki/Linux",
+   "source": "Wikipedia (EN) most viewed",
+   "sourceId": "wiki-en",
+   "category": "trending",
+   "region": "INTL",
+   "rank": 4,
+   "extra": {
+    "views": 177023
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Blood",
+   "url": "https://en.wikipedia.org/wiki/Blood",
+   "source": "Wikipedia (EN) most viewed",
+   "sourceId": "wiki-en",
+   "category": "trending",
+   "region": "INTL",
+   "rank": 5,
+   "extra": {
+    "views": 174912
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Riemann hypothesis",
+   "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+   "source": "Wikipedia (EN) most viewed",
+   "sourceId": "wiki-en",
+   "category": "trending",
+   "region": "INTL",
+   "rank": 6,
+   "extra": {
+    "views": 157845
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "List of highest-grossing Indian films",
+   "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films",
+   "source": "Wikipedia (EN) most viewed",
+   "sourceId": "wiki-en",
+   "category": "trending",
+   "region": "INTL",
+   "rank": 7,
+   "extra": {
+    "views": 136937
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Experience machine",
+   "url": "https://en.wikipedia.org/wiki/Experience_machine",
+   "source": "Wikipedia (EN) most viewed",
+   "sourceId": "wiki-en",
+   "category": "trending",
+   "region": "INTL",
+   "rank": 8,
+   "extra": {
+    "views": 135474
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Deaths in 2026",
+   "url": "https://en.wikipedia.org/wiki/Deaths_in_2026",
+   "source": "Wikipedia (EN) most viewed",
+   "sourceId": "wiki-en",
+   "category": "trending",
+   "region": "INTL",
+   "rank": 9,
+   "extra": {
+    "views": 132913
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Tom Jackson (American football, born 1951)",
+   "url": "https://en.wikipedia.org/wiki/Tom_Jackson_(American_football,_born_1951)",
+   "source": "Wikipedia (EN) most viewed",
+   "sourceId": "wiki-en",
+   "category": "trending",
+   "region": "INTL",
+   "rank": 10,
+   "extra": {
+    "views": 128174
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Russian corvette Merkury",
+   "url": "https://en.wikipedia.org/wiki/Russian_corvette_Merkury",
+   "source": "Wikipedia (EN) most viewed",
+   "sourceId": "wiki-en",
+   "category": "trending",
+   "region": "INTL",
+   "rank": 11,
+   "extra": {
+    "views": 124318
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Miley Cyrus",
+   "url": "https://en.wikipedia.org/wiki/Miley_Cyrus",
+   "source": "Wikipedia (EN) most viewed",
+   "sourceId": "wiki-en",
+   "category": "trending",
+   "region": "INTL",
+   "rank": 12,
+   "extra": {
+    "views": 116713
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Molly Meldrum",
+   "url": "https://en.wikipedia.org/wiki/Molly_Meldrum",
+   "source": "Wikipedia (EN) most viewed",
+   "sourceId": "wiki-en",
+   "category": "trending",
+   "region": "INTL",
+   "rank": 13,
+   "extra": {
+    "views": 112186
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": ".xxx",
+   "url": "https://en.wikipedia.org/wiki/.xxx",
+   "source": "Wikipedia (EN) most viewed",
+   "sourceId": "wiki-en",
+   "category": "trending",
+   "region": "INTL",
+   "rank": 14,
+   "extra": {
+    "views": 111570
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Mariella Frostrup",
+   "url": "https://en.wikipedia.org/wiki/Mariella_Frostrup",
+   "source": "Wikipedia (EN) most viewed",
+   "sourceId": "wiki-en",
+   "category": "trending",
+   "region": "INTL",
+   "rank": 15,
+   "extra": {
+    "views": 110614
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Unang Pahina",
+   "url": "https://tl.wikipedia.org/wiki/Unang_Pahina",
+   "source": "Wikipedia (TL) most viewed",
+   "sourceId": "wiki-tl",
+   "category": "trending",
+   "region": "PH",
+   "rank": 1,
+   "extra": {
+    "views": 577
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Masaker sa Maguindanao",
+   "url": "https://tl.wikipedia.org/wiki/Masaker_sa_Maguindanao",
+   "source": "Wikipedia (TL) most viewed",
+   "sourceId": "wiki-tl",
+   "category": "trending",
+   "region": "PH",
+   "rank": 2,
+   "extra": {
+    "views": 430
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Gehlee",
+   "url": "https://tl.wikipedia.org/wiki/Gehlee",
+   "source": "Wikipedia (TL) most viewed",
+   "sourceId": "wiki-tl",
+   "category": "trending",
+   "region": "PH",
+   "rank": 3,
+   "extra": {
+    "views": 253
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Nathan Garcia",
+   "url": "https://tl.wikipedia.org/wiki/Nathan_Garcia",
+   "source": "Wikipedia (TL) most viewed",
+   "sourceId": "wiki-tl",
+   "category": "trending",
+   "region": "PH",
+   "rank": 4,
+   "extra": {
+    "views": 165
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "José Rizal",
+   "url": "https://tl.wikipedia.org/wiki/José_Rizal",
+   "source": "Wikipedia (TL) most viewed",
+   "sourceId": "wiki-tl",
+   "category": "trending",
+   "region": "PH",
+   "rank": 5,
+   "extra": {
+    "views": 149
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Gabriela Silang",
+   "url": "https://tl.wikipedia.org/wiki/Gabriela_Silang",
+   "source": "Wikipedia (TL) most viewed",
+   "sourceId": "wiki-tl",
+   "category": "trending",
+   "region": "PH",
+   "rank": 6,
+   "extra": {
+    "views": 143
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Pax Silica",
+   "url": "https://tl.wikipedia.org/wiki/Pax_Silica",
+   "source": "Wikipedia (TL) most viewed",
+   "sourceId": "wiki-tl",
+   "category": "trending",
+   "region": "PH",
+   "rank": 7,
+   "extra": {
+    "views": 122
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Pananakop ng mga Hapones sa Pilipinas",
+   "url": "https://tl.wikipedia.org/wiki/Pananakop_ng_mga_Hapones_sa_Pilipinas",
+   "source": "Wikipedia (TL) most viewed",
+   "sourceId": "wiki-tl",
+   "category": "trending",
+   "region": "PH",
+   "rank": 8,
+   "extra": {
+    "views": 110
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Ikalawang Digmaang Pandaigdig",
+   "url": "https://tl.wikipedia.org/wiki/Ikalawang_Digmaang_Pandaigdig",
+   "source": "Wikipedia (TL) most viewed",
+   "sourceId": "wiki-tl",
+   "category": "trending",
+   "region": "PH",
+   "rank": 9,
+   "extra": {
+    "views": 105
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Andrés Bonifacio",
+   "url": "https://tl.wikipedia.org/wiki/Andrés_Bonifacio",
+   "source": "Wikipedia (TL) most viewed",
+   "sourceId": "wiki-tl",
+   "category": "trending",
+   "region": "PH",
+   "rank": 10,
+   "extra": {
+    "views": 98
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+   "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "sourceId": "bbc",
+   "category": "news",
+   "region": "INTL",
+   "rank": 1,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 04:36:31 GMT"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "What China's Xi could take away from Jensen Huang's return to Nvidia",
+   "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "sourceId": "bbc",
+   "category": "news",
+   "region": "INTL",
+   "rank": 2,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 07:26:27 GMT"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+   "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "sourceId": "bbc",
+   "category": "news",
+   "region": "INTL",
+   "rank": 3,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 02:15:59 GMT"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "sourceId": "bbc",
+   "category": "news",
+   "region": "INTL",
+   "rank": 4,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 05:33:07 GMT"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+   "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "sourceId": "bbc",
+   "category": "news",
+   "region": "INTL",
+   "rank": 5,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 20:48:35 GMT"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+   "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "sourceId": "bbc",
+   "category": "news",
+   "region": "INTL",
+   "rank": 6,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 21:24:47 GMT"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+   "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "sourceId": "bbc",
+   "category": "news",
+   "region": "INTL",
+   "rank": 7,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 17:07:25 GMT"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+   "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "sourceId": "bbc",
+   "category": "news",
+   "region": "INTL",
+   "rank": 8,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 18:04:20 GMT"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+   "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "sourceId": "bbc",
+   "category": "news",
+   "region": "INTL",
+   "rank": 9,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 00:23:25 GMT"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+   "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "sourceId": "bbc",
+   "category": "news",
+   "region": "INTL",
+   "rank": 10,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 17:14:50 GMT"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Pakistan’s Zeeshan Ali set for historic flight to China’s space station",
+   "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
+   "source": "Al Jazeera",
+   "sourceId": "aljazeera",
+   "category": "news",
+   "region": "INTL",
+   "rank": 1,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 07:55:18 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
+   "url": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
+   "source": "Al Jazeera",
+   "sourceId": "aljazeera",
+   "category": "news",
+   "region": "INTL",
+   "rank": 2,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 07:52:44 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Why has Yemen’s offensive against the Houthis in al-Bayda stalled?",
+   "url": "https://www.aljazeera.com/news/2026/11/24/why-has-yemens-offensive-against-the-houthis-in-al-bayda-stalled?traffic_source=rss",
+   "source": "Al Jazeera",
+   "sourceId": "aljazeera",
+   "category": "news",
+   "region": "INTL",
+   "rank": 3,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 07:36:07 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Sheikh Hasina plans to return to Bangladesh from exile on December 16",
+   "url": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16?traffic_source=rss",
+   "source": "Al Jazeera",
+   "sourceId": "aljazeera",
+   "category": "news",
+   "region": "INTL",
+   "rank": 4,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 07:35:02 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Member states must not betray the ICC",
+   "url": "https://www.aljazeera.com/opinions/2026/11/24/member-states-must-not-betray-the-icc?traffic_source=rss",
+   "source": "Al Jazeera",
+   "sourceId": "aljazeera",
+   "category": "news",
+   "region": "INTL",
+   "rank": 5,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 07:13:18 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Australia warns tech giants of multibillion-dollar fines for online ‘harm’",
+   "url": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss",
+   "source": "Al Jazeera",
+   "sourceId": "aljazeera",
+   "category": "news",
+   "region": "INTL",
+   "rank": 6,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 07:02:52 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Why Eisenkot is negotiating with Netanyahu",
+   "url": "https://www.aljazeera.com/opinions/2026/11/24/why-eisenkot-is-negotiating-with-netanyahu?traffic_source=rss",
+   "source": "Al Jazeera",
+   "sourceId": "aljazeera",
+   "category": "news",
+   "region": "INTL",
+   "rank": 7,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 07:02:40 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Nvidia live: Markets surge as Jensen Huang returns as CEO",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
+   "source": "Al Jazeera",
+   "sourceId": "aljazeera",
+   "category": "news",
+   "region": "INTL",
+   "rank": 8,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 06:24:25 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Arsenal vs Dortmund: Champions League – Predictions, how to watch, lineups",
+   "url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-borussia-dortmund-champions-league-predictions-lineups-streaming?traffic_source=rss",
+   "source": "Al Jazeera",
+   "sourceId": "aljazeera",
+   "category": "news",
+   "region": "INTL",
+   "rank": 9,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 05:56:41 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Pennsylvania reports ninth measles death in ongoing state outbreak",
+   "url": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
+   "source": "Al Jazeera",
+   "sourceId": "aljazeera",
+   "category": "news",
+   "region": "INTL",
+   "rank": 10,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 04:59:13 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Ombudsman orders graft raps vs. Dumaguete water district chief",
+   "url": "https://www.gmanetwork.com/news/topstories/regions/1010605/ombudsman-orders-graft-raps-vs-dumaguete-water-district-chief/story/",
+   "source": "GMA News",
+   "sourceId": "gma",
+   "category": "news",
+   "region": "PH",
+   "rank": 1,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 15:54:22 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Palace: No agreed terms, timeline yet for PH-US trade deal",
+   "url": "https://www.gmanetwork.com/news/topstories/nation/1010607/palace-no-agreed-terms-timeline-yet-for-ph-us-trade-deal/story/",
+   "source": "GMA News",
+   "sourceId": "gma",
+   "category": "news",
+   "region": "PH",
+   "rank": 2,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 15:52:16 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "SC junks petitions challenging ex-President Duterte's arrest",
+   "url": "https://www.gmanetwork.com/news/topstories/nation/1010604/sc-junks-petitions-challenging-ex-president-duterte-s-arrest/story/",
+   "source": "GMA News",
+   "sourceId": "gma",
+   "category": "news",
+   "region": "PH",
+   "rank": 3,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 15:28:32 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Mga miyembro ng Dura-Dura Gang, huli sa buy-bust sa Cavite; mahigit P200K halaga ng shabu umano, nasabat",
+   "url": "https://www.gmanetwork.com/news/balitambayan/promdi/1010596/mga-miyembro-ng-dura-dura-gang-huli-sa-buy-bust-sa-cavite-mahigit-p200k-halaga-ng-shabu-umano-na/story/",
+   "source": "GMA News",
+   "sourceId": "gma",
+   "category": "news",
+   "region": "PH",
+   "rank": 4,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 14:27:58 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "WATCH: Marcos plays tennis with Alex Eala",
+   "url": "https://www.gmanetwork.com/news/topstories/nation/1010595/watch-marcos-plays-tennis-with-alex-eala/story/",
+   "source": "GMA News",
+   "sourceId": "gma",
+   "category": "news",
+   "region": "PH",
+   "rank": 5,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 14:13:31 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Maysan Road in Valenzuela City now pothole-free after rehab",
+   "url": "https://www.gmanetwork.com/news/topstories/metro/1010590/maysan-road-in-valenzuela-city-now-pothole-free-after-rehab/story/",
+   "source": "GMA News",
+   "sourceId": "gma",
+   "category": "news",
+   "region": "PH",
+   "rank": 6,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 13:50:49 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "1 sa riding-in-tandem na nangholdap sa Mandaluyong, huli; shabu umano, baril at mga plaka ng sasakyan, nakumpiska",
+   "url": "https://www.gmanetwork.com/news/balitambayan/balita/1010589/1-sa-riding-in-tandem-na-nangholdap-sa-mandaluyong-huli-shabu-umano-baril-at-mga-plaka-ng-sasaky/story/",
+   "source": "GMA News",
+   "sourceId": "gma",
+   "category": "news",
+   "region": "PH",
+   "rank": 7,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 13:25:27 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Marcos to Alex Eala: You remind us to be proud to be Pinoy",
+   "url": "https://www.gmanetwork.com/news/topstories/nation/1010586/marcos-to-alex-eala-you-remind-us-to-be-proud-to-be-pinoy/story/",
+   "source": "GMA News",
+   "sourceId": "gma",
+   "category": "news",
+   "region": "PH",
+   "rank": 8,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 13:00:45 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "BI deports 139 Indonesian fugitives",
+   "url": "https://www.gmanetwork.com/news/topstories/nation/1010576/bi-deports-139-indonesian-fugitives/story/",
+   "source": "GMA News",
+   "sourceId": "gma",
+   "category": "news",
+   "region": "PH",
+   "rank": 9,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 12:16:21 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Ombudsman prosecutor: No document shows Romualdez directed Co on budget matters",
+   "url": "https://www.gmanetwork.com/news/topstories/nation/1010572/ombudsman-prosecutor-no-document-shows-romualdez-directed-co-on-budget-matters/story/",
+   "source": "GMA News",
+   "sourceId": "gma",
+   "category": "news",
+   "region": "PH",
+   "rank": 10,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 11:49:28 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Alex Eala moved by heartfelt encounters with Filipino fans",
+   "url": "https://sports.inquirer.net/708313/alex-eala-moved-by-heartfelt-encounters-with-filipino-fans",
+   "source": "Inquirer.net",
+   "sourceId": "inquirer",
+   "category": "news",
+   "region": "PH",
+   "rank": 1,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 16:05:30 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Jake Ejercito shares touching message on daughter Ellie's 15th birthday",
+   "url": "https://entertainment.inquirer.net/691323/jake-ejercito-shares-touching-message-daughter-ellie-15th-birthday",
+   "source": "Inquirer.net",
+   "sourceId": "inquirer",
+   "category": "news",
+   "region": "PH",
+   "rank": 2,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 16:04:11 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Padilla to DFA: Take a stand on Iran as you did with Palestine",
+   "url": "https://globalnation.inquirer.net/349688/padilla-to-dfa-take-a-stand-on-iran-as-you-did-with-palestine",
+   "source": "Inquirer.net",
+   "sourceId": "inquirer",
+   "category": "news",
+   "region": "PH",
+   "rank": 3,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 15:56:00 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Robbie Jaworski, Magui Ford fuel split rumors after mutual Instagram unfollow",
+   "url": "https://entertainment.inquirer.net/691300/robbie-jaworski-magui-ford-fuel-split-rumors-after-mutual-instagram-unfollow",
+   "source": "Inquirer.net",
+   "sourceId": "inquirer",
+   "category": "news",
+   "region": "PH",
+   "rank": 4,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 15:54:04 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "DND, DC Abay-Abay, Penrex Suns score wins in Nevermind Basketball League",
+   "url": "https://cebudailynews.inquirer.net/787767/dnd-dc-abay-abay-penrex-suns-score-wins-in-nevermind-basketball-league",
+   "source": "Inquirer.net",
+   "sourceId": "inquirer",
+   "category": "news",
+   "region": "PH",
+   "rank": 5,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 15:50:00 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "'Beyond Court’s powers': SC junks Rodrigo Duterte habeas corpus bids",
+   "url": "https://newsinfo.inquirer.net/2346310/beyond-courts-powers-sc-junks-rodrigo-duterte-habeas-corpus-bids",
+   "source": "Inquirer.net",
+   "sourceId": "inquirer",
+   "category": "news",
+   "region": "PH",
+   "rank": 6,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 15:43:00 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Katrina Anne Johnson shares she manifested joining Miss International",
+   "url": "https://entertainment.inquirer.net/691350/katrina-anne-johnson-shares-she-manifested-joining-miss-international",
+   "source": "Inquirer.net",
+   "sourceId": "inquirer",
+   "category": "news",
+   "region": "PH",
+   "rank": 7,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 15:40:57 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "My SM's transformation set to stun in the holiday season",
+   "url": "https://pop.inquirer.net/385654/my-sms-transformation-set-to-stun-in-the-holiday-season",
+   "source": "Inquirer.net",
+   "sourceId": "inquirer",
+   "category": "news",
+   "region": "PH",
+   "rank": 8,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 15:39:55 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "SM Supermalls works with innovators to strengthen water resilience",
+   "url": "https://globalnation.inquirer.net/349683/sm-supermalls-works-with-innovators-to-strengthen-water-resilience",
+   "source": "Inquirer.net",
+   "sourceId": "inquirer",
+   "category": "news",
+   "region": "PH",
+   "rank": 9,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 15:36:25 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Bataan village councilor arrested in drug sting",
+   "url": "https://newsinfo.inquirer.net/2346309/bataan-village-councilor-arrested-in-drug-sting",
+   "source": "Inquirer.net",
+   "sourceId": "inquirer",
+   "category": "news",
+   "region": "PH",
+   "rank": 10,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 15:35:16 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "DOJ to review truth body findings on Duterte's drug war",
+   "url": "https://www.philstar.com/headlines/2026/11/24/2572299/doj-review-truth-body-findings-dutertes-drug-war",
+   "source": "Philstar",
+   "sourceId": "philstar",
+   "category": "news",
+   "region": "PH",
+   "rank": 1,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 13:52:00 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Manila court orders arrest of Atong Ang, ex-cop in missing sabungeros case",
+   "url": "https://www.philstar.com/headlines/2026/11/24/2572286/manila-court-orders-arrest-atong-ang-ex-cop-missing-sabungeros-case",
+   "source": "Philstar",
+   "sourceId": "philstar",
+   "category": "news",
+   "region": "PH",
+   "rank": 2,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 10:48:00 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Duterte camp opposes closed-door testimonies for ICC witnesses",
+   "url": "https://www.philstar.com/headlines/2026/11/24/2572289/duterte-camp-opposes-closed-door-testimonies-icc-witnesses",
+   "source": "Philstar",
+   "sourceId": "philstar",
+   "category": "news",
+   "region": "PH",
+   "rank": 3,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 10:09:00 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Marcos, Liza take time off to recharge",
+   "url": "https://www.philstar.com/headlines/2026/11/24/2572200/marcos-liza-take-time-recharge",
+   "source": "Philstar",
+   "sourceId": "philstar",
+   "category": "news",
+   "region": "PH",
+   "rank": 4,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 00:00:00 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Senate ethics body to tackle Bato’s ‘unsigned’ response",
+   "url": "https://www.philstar.com/headlines/2026/11/24/2572204/senate-ethics-body-tackle-batos-unsigned-response",
+   "source": "Philstar",
+   "sourceId": "philstar",
+   "category": "news",
+   "region": "PH",
+   "rank": 5,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 00:00:00 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Philippines extends 14-day visa-free privilege for Chinese nationals",
+   "url": "https://www.philstar.com/headlines/2026/11/24/2572210/philippines-extends-14-day-visa-free-privilege-chinese-nationals",
+   "source": "Philstar",
+   "sourceId": "philstar",
+   "category": "news",
+   "region": "PH",
+   "rank": 6,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 00:00:00 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "DA: Adequate pork supply until Q1 2027",
+   "url": "https://www.philstar.com/headlines/2026/11/24/2572216/da-adequate-pork-supply-until-q1-2027",
+   "source": "Philstar",
+   "sourceId": "philstar",
+   "category": "news",
+   "region": "PH",
+   "rank": 7,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 00:00:00 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Marcos gave ‘diplomatic’ response to Trump’s single-supplier proposal",
+   "url": "https://www.philstar.com/headlines/2026/11/24/2572219/marcos-gave-diplomatic-response-trumps-single-supplier-proposal",
+   "source": "Philstar",
+   "sourceId": "philstar",
+   "category": "news",
+   "region": "PH",
+   "rank": 8,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 00:00:00 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "VP defense struggling to find credible witnesses – prosecution",
+   "url": "https://www.philstar.com/headlines/2026/11/24/2572223/vp-defense-struggling-find-credible-witnesses-prosecution",
+   "source": "Philstar",
+   "sourceId": "philstar",
+   "category": "news",
+   "region": "PH",
+   "rank": 9,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 00:00:00 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Gasoline down by P3 per liter, diesel by P2.60",
+   "url": "https://www.philstar.com/headlines/2026/11/24/2572226/gasoline-down-p3-liter-diesel-p260",
+   "source": "Philstar",
+   "sourceId": "philstar",
+   "category": "news",
+   "region": "PH",
+   "rank": 10,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 00:00:00 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Ex-OpenAI engineer vibecoded better bugs to record meetings – court filing",
+   "url": "https://www.rappler.com/technology/openai-engineer-abdulrahman-alfozan-vibecode-recording-devices-filing/",
+   "source": "Rappler",
+   "sourceId": "rappler",
+   "category": "news",
+   "region": "PH",
+   "rank": 1,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 15:10:33 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Who is Angel Ignacio, new Maharlika Investment president and CEO?",
+   "url": "https://www.rappler.com/people/who-is-angel-ignacio-new-maharlika-investment-president-ceo/",
+   "source": "Rappler",
+   "sourceId": "rappler",
+   "category": "news",
+   "region": "PH",
+   "rank": 2,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 14:46:30 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Marcos appoints Lacanilao as DOTr usec, Noreen San Luis as LTO chief",
+   "url": "https://www.rappler.com/philippines/markus-lacanilao-dotr-undersecretary-noreen-san-luis-lto-chief-appoinment/",
+   "source": "Rappler",
+   "sourceId": "rappler",
+   "category": "news",
+   "region": "PH",
+   "rank": 3,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 14:38:55 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "BARMM has a new parliament, but the guns remain",
+   "url": "https://www.rappler.com/philippines/mindanao/barmm-new-parliament-guns-still-remain/",
+   "source": "Rappler",
+   "sourceId": "rappler",
+   "category": "news",
+   "region": "PH",
+   "rank": 4,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 14:07:18 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "[Vantage Point] Boardroom gymnastics, retail stakes: Unpacking the Rockwell deal",
+   "url": "https://www.rappler.com/voices/newsletters/vantage-point-unpacking-rockwell-deal/",
+   "source": "Rappler",
+   "sourceId": "rappler",
+   "category": "news",
+   "region": "PH",
+   "rank": 5,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 12:00:00 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Order in the Court: Supreme Court’s good news for seafarers",
+   "url": "https://www.rappler.com/philippines/order-in-the-court-supreme-court-ruling-magna-carta-seafarers/",
+   "source": "Rappler",
+   "sourceId": "rappler",
+   "category": "news",
+   "region": "PH",
+   "rank": 6,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 10:33:05 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "The Sky Cable paradox: From ABS-CBN’s second business to its burden",
+   "url": "https://www.rappler.com/business/sky-cable-paradox-from-abs-cbn-second-burden/",
+   "source": "Rappler",
+   "sourceId": "rappler",
+   "category": "news",
+   "region": "PH",
+   "rank": 7,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 10:09:39 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "What does the proposed Pax Silica bill in the House contain?",
+   "url": "https://www.rappler.com/philippines/things-to-know-pax-silica-bill-advanced-industries-zone-proposal-congress/",
+   "source": "Rappler",
+   "sourceId": "rappler",
+   "category": "news",
+   "region": "PH",
+   "rank": 8,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 09:32:16 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "At AI speed, Nvidia’s Jensen Huang finds exoneration",
+   "url": "https://www.rappler.com/technology/criticisms-nvidia-decision-reinstate-jensen-huang-ceo/",
+   "source": "Rappler",
+   "sourceId": "rappler",
+   "category": "news",
+   "region": "PH",
+   "rank": 9,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 08:27:33 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Nvidia reinstates Jensen Huang as CEO",
+   "url": "https://www.rappler.com/technology/nvidia-reinstates-jensen-huang-ceo-november-23-2026/",
+   "source": "Rappler",
+   "sourceId": "rappler",
+   "category": "news",
+   "region": "PH",
+   "rank": 10,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 22:11:41 +0800"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Commanders building momentum, halt Bengals' 5-game win streak",
+   "url": "https://www.espn.com/nfl/story/_/id/50573995/2026-nfl-week-11-washington-commanders-cincinnati-bengals",
+   "source": "ESPN",
+   "sourceId": "espn",
+   "category": "sports",
+   "region": "INTL",
+   "rank": 1,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 23:46:50 EST"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "'I live for these moments': Daniels again delivers in clutch for Commanders",
+   "url": "https://www.espn.com/nfl/story/_/id/50580514/jayden-daniels-delivers-another-late-game-drive-commanders-win-vs-bengals-mnf",
+   "source": "ESPN",
+   "sourceId": "espn",
+   "category": "sports",
+   "region": "INTL",
+   "rank": 2,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 02:15:26 EST"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "SEC to consider termination of LSU's membership at Dec. 3 meeting",
+   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50577602/sec-consider-termination-lsu-membership",
+   "source": "ESPN",
+   "sourceId": "espn",
+   "category": "sports",
+   "region": "INTL",
+   "rank": 3,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 02:13:31 EST"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Luis plans to sue SEC, Sankey for damages over LSU saga, attorney says",
+   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50578772/rj-luis-plans-sue-sec-greg-sankey-damages-lsu-eligibility-saga-attorney-says",
+   "source": "ESPN",
+   "sourceId": "espn",
+   "category": "sports",
+   "region": "INTL",
+   "rank": 4,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 02:13:31 EST"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Sources: Cubs shore up rotation, agree to free agent deal with LHP Rogers",
+   "url": "https://www.espn.com/mlb/story/_/id/50579432/sources-free-agent-trevor-rogers-cubs-reach-5-year-deal",
+   "source": "ESPN",
+   "sourceId": "espn",
+   "category": "sports",
+   "region": "INTL",
+   "rank": 5,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 02:13:31 EST"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Georgia defensive coordinator Schumann to be next coach at Florida State",
+   "url": "https://www.espn.com/college-football/story/_/id/50577665/uga-defensive-coordinator-schumann-coach-florida-state",
+   "source": "ESPN",
+   "sourceId": "espn",
+   "category": "sports",
+   "region": "INTL",
+   "rank": 6,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 02:13:31 EST"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Blackhawks' Bedard has shoulder surgery, out approximately 4 months",
+   "url": "https://www.espn.com/nhl/story/_/id/50578959/blackhawks-connor-bedard-right-shoulder-surgery",
+   "source": "ESPN",
+   "sourceId": "espn",
+   "category": "sports",
+   "region": "INTL",
+   "rank": 7,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 02:13:31 EST"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Sources: Packers' Parsons cleared to make season debut Wednesday vs. Rams",
+   "url": "https://www.espn.com/nfl/story/_/id/50577301/sources-packers-micah-parsons-cleared-return-wednesday",
+   "source": "ESPN",
+   "sourceId": "espn",
+   "category": "sports",
+   "region": "INTL",
+   "rank": 8,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 02:13:31 EST"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "'Grateful' Larkin picks up an assist in debut with Canadiens",
+   "url": "https://www.espn.com/nhl/story/_/id/50579338/center-dylan-larkin-picks-assist-debut-montreal",
+   "source": "ESPN",
+   "sourceId": "espn",
+   "category": "sports",
+   "region": "INTL",
+   "rank": 9,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 02:13:31 EST"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "✨ Golliver's too-early NBA All-Star picks",
+   "url": "https://www.espn.com/nba/story/_/id/50558987/all-star-selections-wembanyama-giannis-maxey",
+   "source": "ESPN",
+   "sourceId": "espn",
+   "category": "sports",
+   "region": "INTL",
+   "rank": 10,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 02:13:31 EST"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "USD/PHP 63.85",
+   "url": "https://www.bsp.gov.ph/",
+   "source": "USD/PHP",
+   "sourceId": "fx-usd-php",
+   "category": "currency",
+   "region": "PH",
+   "rank": 1,
+   "extra": {
+    "rate": 63.848367
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Google alternative Kagi launches an email service",
+   "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+   "source": "The Verge",
+   "sourceId": "verge",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 1,
+   "extra": {
+    "published": "2026-11-23T19:02:52-05:00"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
+   "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+   "source": "The Verge",
+   "sourceId": "verge",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 2,
+   "extra": {
+    "published": "2026-11-23T18:25:01-05:00"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "The Verge’s 2026 holiday gift guide",
+   "url": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
+   "source": "The Verge",
+   "sourceId": "verge",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 3,
+   "extra": {
+    "published": "2026-11-23T18:14:10-05:00"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Ladybird, the first new browser engine in years, is now available to test",
+   "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+   "source": "The Verge",
+   "sourceId": "verge",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 4,
+   "extra": {
+    "published": "2026-11-23T17:38:09-05:00"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Trump engineered a risky comeback for Jensen Huang",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+   "source": "The Verge",
+   "sourceId": "verge",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 5,
+   "extra": {
+    "published": "2026-11-23T17:34:20-05:00"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "source": "The Verge",
+   "sourceId": "verge",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 6,
+   "extra": {
+    "published": "2026-11-23T17:18:13-05:00"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Welcome to elite impunity, Jensen Huang",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+   "source": "The Verge",
+   "sourceId": "verge",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 7,
+   "extra": {
+    "published": "2026-11-23T17:21:36-05:00"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+   "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+   "source": "The Verge",
+   "sourceId": "verge",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 8,
+   "extra": {
+    "published": "2026-11-23T16:36:48-05:00"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Figma employee sues, alleging company forced her to confront harassers",
+   "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+   "source": "TechCrunch",
+   "sourceId": "techcrunch",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 1,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 23:07:49 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+   "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+   "source": "TechCrunch",
+   "sourceId": "techcrunch",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 2,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 22:05:50 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+   "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+   "source": "TechCrunch",
+   "sourceId": "techcrunch",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 3,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 22:02:05 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+   "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+   "source": "TechCrunch",
+   "sourceId": "techcrunch",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 4,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 21:47:41 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+   "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+   "source": "TechCrunch",
+   "sourceId": "techcrunch",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 5,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 21:25:42 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+   "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+   "source": "TechCrunch",
+   "sourceId": "techcrunch",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 6,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 20:38:53 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+   "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+   "source": "TechCrunch",
+   "sourceId": "techcrunch",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 7,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 19:31:41 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+   "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+   "source": "TechCrunch",
+   "sourceId": "techcrunch",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 8,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 19:14:46 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+   "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+   "source": "Ars Technica",
+   "sourceId": "ars",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 1,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 21:58:34 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+   "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+   "source": "Ars Technica",
+   "sourceId": "ars",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 2,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 21:30:44 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
+   "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
+   "source": "Ars Technica",
+   "sourceId": "ars",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 3,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 20:34:51 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Surveillance pricing uses our personal data to make us pay more",
+   "url": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
+   "source": "Ars Technica",
+   "sourceId": "ars",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 4,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 20:11:43 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
+   "url": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
+   "source": "Ars Technica",
+   "sourceId": "ars",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 5,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 19:38:13 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Reports: Russia may launch nuclear weapon into orbit as soon as next month",
+   "url": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
+   "source": "Ars Technica",
+   "sourceId": "ars",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 6,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 19:28:30 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
+   "url": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
+   "source": "Ars Technica",
+   "sourceId": "ars",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 7,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 15:55:12 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+   "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+   "source": "Ars Technica",
+   "sourceId": "ars",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 8,
+   "extra": {
+    "published": "Mon, 23 Nov 2026 15:46:18 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Adam Driver Teases His ‘X-Men’ Villain Mister Sinister to Seth Meyers",
+   "url": "https://variety.com/2026/film/news/adam-driver-x-men-mister-sinister-seth-meyers-marvel-1236956786/",
+   "source": "Variety",
+   "sourceId": "variety",
+   "category": "entertainment",
+   "region": "INTL",
+   "rank": 1,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 06:42:34 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Love Blooms Behind an Open Prison’s Missing Bars in Venice and Busan-Selected Director Nidhi Saxena’s ‘Azaad Nagar’ at WAVES Film Bazaar",
+   "url": "https://variety.com/2026/film/markets-festivals/love-blooms-open-prison-venice-directors-azaad-nagar-1236956781/",
+   "source": "Variety",
+   "sourceId": "variety",
+   "category": "entertainment",
+   "region": "INTL",
+   "rank": 2,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 06:17:35 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Ranbir Kapoor’s ‘Brahmastra’ Sequel Could Go ‘Even More Indian,’ Director Ayan Mukerji Tells IFFI",
+   "url": "https://variety.com/2026/film/festivals/ranbir-kapoor-brahmastra-sequel-more-indian-1236956772/",
+   "source": "Variety",
+   "sourceId": "variety",
+   "category": "entertainment",
+   "region": "INTL",
+   "rank": 3,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 06:04:06 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "‘Elephants in the Fog’ Adds Mexico, South Korea, Portugal Sales as Oscar Campaign Visits U.N. (EXCLUSIVE)",
+   "url": "https://variety.com/2026/film/festivals/elephants-fog-mexico-south-korea-portugal-sales-1236956767/",
+   "source": "Variety",
+   "sourceId": "variety",
+   "category": "entertainment",
+   "region": "INTL",
+   "rank": 4,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 05:50:13 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Hila Klein Exits ‘H3 Podcast’ Following Ethan Klein Affair: ‘I’m Devastated That Things Have Come to This’",
+   "url": "https://variety.com/2026/digital/news/hila-klein-exits-h3-podcast-ethan-klein-affair-1236956758/",
+   "source": "Variety",
+   "sourceId": "variety",
+   "category": "entertainment",
+   "region": "INTL",
+   "rank": 5,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 05:36:19 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "India Could Post Its Highest Box Office Since the Pandemic, Zee Studios’ Girish Johar Tells WAVES Film Bazaar",
+   "url": "https://variety.com/2026/film/markets-festivals/india-highest-box-office-pandemic-waves-film-bazaar-1236956754/",
+   "source": "Variety",
+   "sourceId": "variety",
+   "category": "entertainment",
+   "region": "INTL",
+   "rank": 6,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 05:29:49 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "A.R. Rahman Unpacks His Hindustani Classical Score for Bharat Bala’s IFFI-Selected Maha Kumbh Drama ‘Banaras’",
+   "url": "https://variety.com/2026/film/festivals/ar-rahman-hindustani-classical-score-banaras-1236956751/",
+   "source": "Variety",
+   "sourceId": "variety",
+   "category": "entertainment",
+   "region": "INTL",
+   "rank": 7,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 05:16:11 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  },
+  {
+   "title": "Berlinale Alum Sreemoyee Singh’s WAVES Film Bazaar Selection ‘Fireflowers,’ About a Mother’s Lost Singing Voice, Boards Dutch Co-Producer (EXCLUSIVE)",
+   "url": "https://variety.com/2026/film/markets-festivals/waves-film-bazaar-doc-fireflowers-dutch-co-producer-1236956745/",
+   "source": "Variety",
+   "sourceId": "variety",
+   "category": "entertainment",
+   "region": "INTL",
+   "rank": 8,
+   "extra": {
+    "published": "Tue, 24 Nov 2026 04:58:03 +0000"
+   },
+   "fetchedAt": "2026-11-24T08:11:06+00:00"
+  }
+ ]
+}
