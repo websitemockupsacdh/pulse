@@ -1,0 +1,1 @@
+{ "name": "PULSE", "short_name": "pulse.", "start_url": "/", "display": "standalone", "background_color": "#F3F5FA", "theme_color": "#F3F5FA", "icons": [{ "src": "/acdhlogo.png", "sizes": "any", "type": "image/png" }] }

@@ -1,0 +1,30 @@
+name: trending
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 min; change to "0 * * * *" for hourly
+  workflow_dispatch: {}       # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch public trending feeds
+        working-directory: backend
+        run: python -m trending.run --out ../frontend/public/trending.json
+
+      - name: Commit if changed
+        run: |
+          git config user.name "pulse-bot"
+          git config user.email "pulse-bot@users.noreply.github.com"
+          git add frontend/public/trending.json
+          git diff --cached --quiet || (git commit -m "chore: refresh trending.json" && git push)

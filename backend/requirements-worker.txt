@@ -1,0 +1,6 @@
+# Only for a self-hosted worker (not Vercel)
+-r requirements.txt
+celery>=5.3
+redis>=5.0
+opensearch-py>=2.5
+alembic>=1.13
