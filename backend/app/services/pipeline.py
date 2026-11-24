@@ -25,6 +25,8 @@ def validate(raw: RawItem) -> bool:
 
 
 def ingest_source(db: Session, source: Source) -> int:
+    if not source.enabled:
+        return 0
     try:
         raws = build(source.connector, source.config or {}, source.url).fetch()
     except ConnectorError as e:

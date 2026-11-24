@@ -75,9 +75,9 @@ def test_missing_engagement_is_null_not_zero(db):
     assert db.query(Item).one().engagement is None
 
 
-def test_seed_updates_requested_sources_and_retires_old_sections(db):
-    db.add(Source(slug="youtube-ph", name="YouTube", connector="youtube", kind="video",
-                  url="https://youtube.com", config={}, enabled=True))
+def test_seed_preserves_source_state_and_retires_old_sections(db):
+    youtube = db.query(Source).filter_by(slug="youtube-ph").one()
+    youtube.enabled = False
     db.add(PageSection(page="home", position=9, key="video", title="Videos", query={}))
     db.commit()
     seed(db)
@@ -86,6 +86,69 @@ def test_seed_updates_requested_sources_and_retires_old_sections(db):
     assert db.query(Source).filter_by(slug="prc").one().config["category"] == "prc"
     assert db.query(Source).filter_by(slug="soompi").one().region == "INTL"
     assert db.query(PageSection).filter_by(key="ppop").one().enabled is True
+
+
+def test_source_enablement_is_persisted_and_sources_can_be_reenabled(db):
+    disabled = {"abs-cbn", "mb", "mb-entertainment", "pna", "reddit-ph", "facebook", "instagram",
+                "threads", "tiktok", "x", "ndrrmc", "pagasa", "phivolcs"}
+    enabled = {"bbc-world", "gma", "inquirer", "philstar", "rappler", "gdacs", "youtube-ph"}
+    rows = {source.slug: source for source in db.query(Source).all()}
+    assert disabled.issubset(rows)
+    assert all(not rows[slug].enabled for slug in disabled)
+    assert all(rows[slug].enabled for slug in enabled)
+
+    source = rows["reddit-ph"]
+    source.enabled = True
+    source.url = "https://reddit.example/custom"
+    source.config = {"custom": True}
+    seed(db)
+    assert source.enabled is True
+    assert source.url == "https://reddit.example/custom"
+    assert source.config == {"custom": True}
+
+
+def test_ingestion_attempts_only_enabled_sources_and_keeps_gma_ingestible(db, monkeypatch):
+    from sqlalchemy import select
+
+    from app.services.seed import DISABLED_SOURCE_SLUGS
+
+    sources = list(db.scalars(select(Source)))
+    enabled = {source.slug for source in sources if source.enabled}
+    from collections import Counter
+
+    expected = Counter((source.connector, source.url) for source in sources if source.enabled)
+    calls = []
+
+    def build(connector, config, url):
+        calls.append((connector, url))
+
+        class FakeConnector:
+            def fetch(self):
+                if url == "https://data.gmanetwork.com/gno/rss/news/feed.xml":
+                    return [raw("GMA ingests new public headlines", "https://gma.example/story")]
+                return []
+
+        return FakeConnector()
+
+    monkeypatch.setattr(pipeline, "build", build)
+    pipeline.ingest_all(db)
+    assert Counter(calls) == Counter(expected)
+    assert not (enabled & DISABLED_SOURCE_SLUGS)
+    assert db.query(Item).filter_by(title="GMA ingests new public headlines").count() == 1
+
+
+def test_disabled_source_is_skipped_when_ingested_directly(db, monkeypatch):
+    source = db.query(Source).filter_by(slug="reddit-ph").one()
+    called = False
+
+    def build(*args):
+        nonlocal called
+        called = True
+        raise AssertionError("disabled sources must not be fetched")
+
+    monkeypatch.setattr(pipeline, "build", build)
+    assert pipeline.ingest_source(db, source) == 0
+    assert not called
 
 
 def test_image_url_is_saved_with_item(db):

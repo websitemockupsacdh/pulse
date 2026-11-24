@@ -90,3 +90,10 @@ class PushSubscription(Base):
     endpoint: Mapped[str] = mapped_column(String(2048), unique=True)
     keys: Mapped[dict] = mapped_column(JSON)
     criteria: Mapped[dict] = mapped_column(JSON, default=dict)
+
+
+class AppSetting(Base):
+    """Persist one-time data initialization markers without overwriting managed records."""
+    __tablename__ = "app_settings"
+    key: Mapped[str] = mapped_column(String(64), primary_key=True)
+    value: Mapped[str] = mapped_column(String(256))

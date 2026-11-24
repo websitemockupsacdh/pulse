@@ -2,7 +2,15 @@
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 
-from ..models import PageSection, Source
+from ..models import AppSetting, PageSection, Source
+
+SOURCE_STATE_VERSION = "source-enablement-v1"
+DISABLED_SOURCE_SLUGS = {
+    "abs-cbn", "mb", "mb-entertainment", "pna", "reddit-ph",
+    "facebook", "instagram", "threads", "tiktok", "x",
+    "ndrrmc", "pagasa", "phivolcs",
+}
+ENABLED_SOURCE_SLUGS = {"bbc-world", "gma", "inquirer", "philstar", "rappler", "gdacs", "youtube-ph"}
 
 
 def _sources():
@@ -93,6 +101,24 @@ def _sources():
     add("mb", "Manila Bulletin", "https://mb.com.ph/rss/articles", "national")
     add("pna", "Philippine News Agency", "https://www.pna.gov.ph/latest.rss", "national")
     add("bbc-world", "BBC News World", "https://feeds.bbci.co.uk/news/world/rss.xml", "international", region="INTL")
+    add("businessmirror", "BusinessMirror", "https://businessmirror.com.ph/feed/", "national")
+    add("aljazeera", "Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml", "international", region="INTL")
+    add("npr", "NPR News", "https://feeds.npr.org/1001/rss.xml", "international", region="INTL")
+    add("guardian-world", "The Guardian World", "https://www.theguardian.com/world/rss", "international", region="INTL")
+    add("dw-world", "DW News", "https://rss.dw.com/rdf/rss-en-all", "international", region="INTL")
+    rows.extend([
+        ("gdacs", "GDACS (UN/EC)", "rss", "official", "https://www.gdacs.org/xml/rss.xml",
+         {"category": "weather", "kind": "official", "filter_contains": "Philippines"}, "INTL"),
+        ("youtube-ph", "YouTube Trending PH", "youtube", "video", "https://www.googleapis.com/youtube/v3",
+         {"region_code": "PH"}, "PH"),
+        ("reddit-ph", "r/Philippines", "reddit", "social", "https://www.reddit.com/r/Philippines/hot.json?limit=25",
+         {}, "PH"),
+        ("x", "X", "social_unavailable", "social", "https://x.com", {"platform": "X"}, "PH"),
+        ("threads", "Threads", "social_unavailable", "social", "https://threads.net", {"platform": "Threads"}, "PH"),
+        ("facebook", "Facebook", "social_unavailable", "social", "https://facebook.com", {"platform": "Facebook"}, "PH"),
+        ("instagram", "Instagram", "social_unavailable", "social", "https://instagram.com", {"platform": "Instagram"}, "PH"),
+        ("tiktok", "TikTok", "social_unavailable", "social", "https://tiktok.com", {"platform": "TikTok"}, "PH"),
+    ])
     return rows
 
 
@@ -120,23 +146,20 @@ def seed(db: Session) -> None:
     sources = {s.slug: s for s in db.scalars(select(Source))}
     for slug, name, conn, kind, url, cfg, region in SOURCES:
         source = sources.get(slug)
-        enable_source = source is None or (slug in {"pagasa", "phivolcs", "ndrrmc"} and not source.url)
         if source is None:
-            source = Source(slug=slug)
+            source = Source(slug=slug, name=name, connector=conn, kind=kind, url=url,
+                            config=cfg, region=region, enabled=True)
             db.add(source)
-        source.name = name
-        source.connector = conn
-        source.kind = kind
-        source.url = url
-        source.config = cfg
-        source.region = region
-        if enable_source:
-            source.enabled = True
+            sources[slug] = source
 
-    # Retire the old social/video collection rather than continuing to poll it.
-    for slug in ("youtube-ph", "reddit-ph", "x", "threads", "facebook", "instagram", "tiktok"):
-        if slug in sources:
-            sources[slug].enabled = False
+    if db.get(AppSetting, SOURCE_STATE_VERSION) is None:
+        for slug in DISABLED_SOURCE_SLUGS:
+            if slug in sources:
+                sources[slug].enabled = False
+        for slug in ENABLED_SOURCE_SLUGS:
+            if slug in sources:
+                sources[slug].enabled = True
+        db.add(AppSetting(key=SOURCE_STATE_VERSION, value="applied"))
 
     sections = {s.key: s for s in db.scalars(select(PageSection).where(PageSection.page == "home"))}
     for i, (key, title, query) in enumerate(HOME):
