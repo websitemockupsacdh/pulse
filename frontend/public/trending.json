@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T14:41:00+00:00",
+ "generatedAt": "2026-11-26T23:28:27+00:00",
  "sources": [
   {
    "id": "gtrends-ph",
@@ -111,7 +111,7 @@
    "category": "disaster",
    "region": "PH",
    "status": "ok",
-   "count": 0
+   "count": 1
   },
   {
    "id": "fx-usd-php",
@@ -156,60 +156,60 @@
  ],
  "items": [
   {
-   "title": "ticketmaster",
-   "url": "https://www.google.com/search?q=ticketmaster",
+   "title": "cowboys vs eagles",
+   "url": "https://www.google.com/search?q=cowboys+vs+eagles",
    "source": "Google Trends PH",
    "sourceId": "gtrends-ph",
    "category": "trending",
    "region": "PH",
    "rank": 1,
    "extra": {
-    "traffic": "500+"
+    "traffic": "200+"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "saudi arabia vs china",
-   "url": "https://www.google.com/search?q=saudi+arabia+vs+china",
+   "title": "international criminal court",
+   "url": "https://www.google.com/search?q=international+criminal+court",
    "source": "Google Trends PH",
    "sourceId": "gtrends-ph",
    "category": "trending",
    "region": "PH",
    "rank": 2,
    "extra": {
-    "traffic": "200+"
+    "traffic": "100+"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "mosquito bowl",
-   "url": "https://www.google.com/search?q=mosquito+bowl",
+   "title": "hasna cabral death",
+   "url": "https://www.google.com/search?q=hasna+cabral+death",
    "source": "Google Trends PH",
    "sourceId": "gtrends-ph",
    "category": "trending",
    "region": "PH",
    "rank": 3,
    "extra": {
-    "traffic": "100+"
+    "traffic": "200+"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "alohi robins-hardy",
-   "url": "https://www.google.com/search?q=alohi+robins-hardy",
+   "title": "lions vs bears",
+   "url": "https://www.google.com/search?q=lions+vs+bears",
    "source": "Google Trends PH",
    "sourceId": "gtrends-ph",
    "category": "trending",
    "region": "PH",
    "rank": 4,
    "extra": {
-    "traffic": "500+"
+    "traffic": "200+"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "jada pinkett smith",
-   "url": "https://www.google.com/search?q=jada+pinkett+smith",
+   "title": "ninoy aquino international airport",
+   "url": "https://www.google.com/search?q=ninoy+aquino+international+airport",
    "source": "Google Trends PH",
    "sourceId": "gtrends-ph",
    "category": "trending",
@@ -218,11 +218,11 @@
    "extra": {
     "traffic": "200+"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "miel fajardo vs masamichi yabuki",
-   "url": "https://www.google.com/search?q=miel+fajardo+vs+masamichi+yabuki",
+   "title": "1password hacked",
+   "url": "https://www.google.com/search?q=1password+hacked",
    "source": "Google Trends PH",
    "sourceId": "gtrends-ph",
    "category": "trending",
@@ -231,59 +231,59 @@
    "extra": {
     "traffic": "200+"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "san beda vs eac",
-   "url": "https://www.google.com/search?q=san+beda+vs+eac",
+   "title": "beaver moon supermoon november",
+   "url": "https://www.google.com/search?q=beaver+moon+supermoon+november",
    "source": "Google Trends PH",
    "sourceId": "gtrends-ph",
    "category": "trending",
    "region": "PH",
    "rank": 7,
    "extra": {
-    "traffic": "100+"
+    "traffic": "500+"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "extradition",
-   "url": "https://www.google.com/search?q=extradition",
+   "title": "meralco",
+   "url": "https://www.google.com/search?q=meralco",
    "source": "Google Trends PH",
    "sourceId": "gtrends-ph",
    "category": "trending",
    "region": "PH",
    "rank": 8,
    "extra": {
-    "traffic": "500+"
+    "traffic": "200+"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "turkey",
-   "url": "https://www.google.com/search?q=turkey",
+   "title": "houthis",
+   "url": "https://www.google.com/search?q=houthis",
    "source": "Google Trends PH",
    "sourceId": "gtrends-ph",
    "category": "trending",
    "region": "PH",
    "rank": 9,
    "extra": {
-    "traffic": "100+"
+    "traffic": "200+"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "alex eala young fan interaction",
-   "url": "https://www.google.com/search?q=alex+eala+young+fan+interaction",
+   "title": "h&m",
+   "url": "https://www.google.com/search?q=h%26m",
    "source": "Google Trends PH",
    "sourceId": "gtrends-ph",
    "category": "trending",
    "region": "PH",
    "rank": 10,
    "extra": {
-    "traffic": "200+"
+    "traffic": "100+"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Miss Universe 2026",
@@ -296,7 +296,7 @@
    "extra": {
     "views": 394056
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Ezra Frech",
@@ -309,7 +309,7 @@
    "extra": {
     "views": 260732
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Dancing with the Stars (American TV series) season 35",
@@ -322,7 +322,7 @@
    "extra": {
     "views": 205438
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Grand Theft Auto VI",
@@ -335,7 +335,7 @@
    "extra": {
     "views": 151092
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Jennifer Barreto",
@@ -348,7 +348,7 @@
    "extra": {
     "views": 149785
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Deaths in 2026",
@@ -361,7 +361,7 @@
    "extra": {
     "views": 136608
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Andy Taylor (guitarist)",
@@ -374,7 +374,7 @@
    "extra": {
     "views": 135665
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Mike McCarthy",
@@ -387,7 +387,7 @@
    "extra": {
     "views": 128019
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "List of highest-grossing Indian films",
@@ -400,7 +400,7 @@
    "extra": {
     "views": 127151
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Aaron Rodgers",
@@ -413,7 +413,7 @@
    "extra": {
     "views": 120910
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Lead(II) azide",
@@ -426,7 +426,7 @@
    "extra": {
     "views": 119831
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Martha Firestone Ford",
@@ -439,7 +439,7 @@
    "extra": {
     "views": 111793
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Elizabeth Holmes",
@@ -452,7 +452,7 @@
    "extra": {
     "views": 111592
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Jensen Huang",
@@ -465,7 +465,7 @@
    "extra": {
     "views": 110888
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "You Can See Everything",
@@ -478,7 +478,7 @@
    "extra": {
     "views": 106458
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Unang Pahina",
@@ -491,7 +491,7 @@
    "extra": {
     "views": 356
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Gehlee",
@@ -504,7 +504,7 @@
    "extra": {
     "views": 255
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Ikalawang Digmaang Pandaigdig",
@@ -517,7 +517,7 @@
    "extra": {
     "views": 194
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Miss Universe Philippines 2027",
@@ -530,7 +530,7 @@
    "extra": {
     "views": 187
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Bea Millan-Windorski",
@@ -543,7 +543,7 @@
    "extra": {
     "views": 176
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Gabriela Silang",
@@ -556,7 +556,7 @@
    "extra": {
     "views": 144
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Pax Silica",
@@ -569,7 +569,7 @@
    "extra": {
     "views": 134
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Rodrigo Duterte",
@@ -582,7 +582,7 @@
    "extra": {
     "views": 129
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Emilio Aguinaldo",
@@ -595,7 +595,7 @@
    "extra": {
     "views": 127
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Andrés Bonifacio",
@@ -608,7 +608,33 @@
    "extra": {
     "views": 118
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
+  },
+  {
+   "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "sourceId": "bbc",
+   "category": "news",
+   "region": "INTL",
+   "rank": 1,
+   "extra": {
+    "published": "Thu, 26 Nov 2026 22:49:27 GMT"
+   },
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
+  },
+  {
+   "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+   "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "sourceId": "bbc",
+   "category": "news",
+   "region": "INTL",
+   "rank": 2,
+   "extra": {
+    "published": "Thu, 26 Nov 2026 19:26:16 GMT"
+   },
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
@@ -617,11 +643,11 @@
    "sourceId": "bbc",
    "category": "news",
    "region": "INTL",
-   "rank": 1,
+   "rank": 3,
    "extra": {
     "published": "Thu, 26 Nov 2026 05:00:24 GMT"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
@@ -630,40 +656,14 @@
    "sourceId": "bbc",
    "category": "news",
    "region": "INTL",
-   "rank": 2,
+   "rank": 4,
    "extra": {
     "published": "Thu, 26 Nov 2026 05:00:27 GMT"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-   "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "sourceId": "bbc",
-   "category": "news",
-   "region": "INTL",
-   "rank": 3,
-   "extra": {
-    "published": "Thu, 26 Nov 2026 10:25:51 GMT"
-   },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
-  },
-  {
-   "title": "Desperate appeals from women on death row in Iran after protests",
-   "url": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "sourceId": "bbc",
-   "category": "news",
-   "region": "INTL",
-   "rank": 4,
-   "extra": {
-    "published": "Thu, 26 Nov 2026 06:01:58 GMT"
-   },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
-  },
-  {
-   "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
+   "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
    "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "sourceId": "bbc",
@@ -671,35 +671,22 @@
    "region": "INTL",
    "rank": 5,
    "extra": {
-    "published": "Thu, 26 Nov 2026 14:00:42 GMT"
+    "published": "Thu, 26 Nov 2026 22:01:22 GMT"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-   "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
+   "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+   "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "sourceId": "bbc",
    "category": "news",
    "region": "INTL",
    "rank": 6,
    "extra": {
-    "published": "Thu, 26 Nov 2026 11:00:39 GMT"
+    "published": "Thu, 26 Nov 2026 14:44:26 GMT"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
-  },
-  {
-   "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-   "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "sourceId": "bbc",
-   "category": "news",
-   "region": "INTL",
-   "rank": 7,
-   "extra": {
-    "published": "Thu, 26 Nov 2026 12:33:23 GMT"
-   },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
@@ -708,557 +695,596 @@
    "sourceId": "bbc",
    "category": "news",
    "region": "INTL",
-   "rank": 8,
+   "rank": 7,
    "extra": {
     "published": "Thu, 26 Nov 2026 14:35:22 GMT"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
-   "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+   "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+   "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "sourceId": "bbc",
+   "category": "news",
+   "region": "INTL",
+   "rank": 8,
+   "extra": {
+    "published": "Thu, 26 Nov 2026 21:17:53 GMT"
+   },
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
+  },
+  {
+   "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+   "url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "sourceId": "bbc",
    "category": "news",
    "region": "INTL",
    "rank": 9,
    "extra": {
-    "published": "Thu, 26 Nov 2026 11:21:50 GMT"
+    "published": "Thu, 26 Nov 2026 12:16:06 GMT"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
-   "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
+   "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
+   "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News",
    "sourceId": "bbc",
    "category": "news",
    "region": "INTL",
    "rank": 10,
    "extra": {
-    "published": "Thu, 26 Nov 2026 10:14:08 GMT"
+    "published": "Thu, 26 Nov 2026 11:00:39 GMT"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Can Trump continue with Iran war despite funding restrictions?",
-   "url": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
+   "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+   "url": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
    "source": "Al Jazeera",
    "sourceId": "aljazeera",
    "category": "news",
    "region": "INTL",
    "rank": 1,
    "extra": {
-    "published": "Thu, 26 Nov 2026 14:17:21 +0000"
+    "published": "Thu, 26 Nov 2026 23:07:36 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region",
-   "url": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss",
+   "title": "In Canada, Quebec’s religious symbols ban faces a Supreme Court test",
+   "url": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss",
    "source": "Al Jazeera",
    "sourceId": "aljazeera",
    "category": "news",
    "region": "INTL",
    "rank": 2,
    "extra": {
-    "published": "Thu, 26 Nov 2026 14:10:00 +0000"
+    "published": "Thu, 26 Nov 2026 22:51:55 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Inside Liberland, the crypto ‘country’ few have heard of",
-   "url": "https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss",
+   "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
+   "url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
    "source": "Al Jazeera",
    "sourceId": "aljazeera",
    "category": "news",
    "region": "INTL",
    "rank": 3,
    "extra": {
-    "published": "Thu, 26 Nov 2026 14:02:02 +0000"
+    "published": "Thu, 26 Nov 2026 22:06:54 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Haftar meets Erdogan: Can Turkiye reunify Libya as it courts rival sides?",
-   "url": "https://www.aljazeera.com/news/2026/11/26/haftar-meets-erdogan-can-turkiye-reunify-libya-as-it-courts-rival-sides?traffic_source=rss",
+   "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+   "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
    "source": "Al Jazeera",
    "sourceId": "aljazeera",
    "category": "news",
    "region": "INTL",
    "rank": 4,
    "extra": {
-    "published": "Thu, 26 Nov 2026 13:34:21 +0000"
+    "published": "Thu, 26 Nov 2026 21:08:44 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Are we ready to live longer? | Centre Stage",
-   "url": "https://www.aljazeera.com/video/centre-stage/2026/11/26/are-we-ready-to-live-longer-centre-stage?traffic_source=rss",
+   "title": "Bangladesh garment workers clash with police over low wages",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss",
    "source": "Al Jazeera",
    "sourceId": "aljazeera",
    "category": "news",
    "region": "INTL",
    "rank": 5,
    "extra": {
-    "published": "Thu, 26 Nov 2026 13:29:30 +0000"
+    "published": "Thu, 26 Nov 2026 21:04:39 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Jordan Parliament debates ‘antiterror’ law after deadly Karak church attack",
-   "url": "https://www.aljazeera.com/news/2026/11/26/jordan-parliament-debates-antiterror-law-after-deadly-karak-church-attack?traffic_source=rss",
+   "title": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
+   "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
    "source": "Al Jazeera",
    "sourceId": "aljazeera",
    "category": "news",
    "region": "INTL",
    "rank": 6,
    "extra": {
-    "published": "Thu, 26 Nov 2026 13:23:46 +0000"
+    "published": "Thu, 26 Nov 2026 20:34:34 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Is UBI the solution to mass unemployment in an AI economy?",
-   "url": "https://www.aljazeera.com/economy/2026/11/26/is-ubi-the-solution-to-mass-unemployment-in-an-ai-economy?traffic_source=rss",
+   "title": "Indian politician facing murder charges hosts 400,000-guest wedding",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss",
    "source": "Al Jazeera",
    "sourceId": "aljazeera",
    "category": "news",
    "region": "INTL",
    "rank": 7,
    "extra": {
-    "published": "Thu, 26 Nov 2026 13:04:51 +0000"
+    "published": "Thu, 26 Nov 2026 20:32:43 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Film shows testimonies of international doctors amid Gaza genocide",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/film-shows-testimonies-of-international-doctors-amid-gaza-genocide?traffic_source=rss",
+   "title": "Mexico seeks US talks about suspected SpaceX debris",
+   "url": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris?traffic_source=rss",
    "source": "Al Jazeera",
    "sourceId": "aljazeera",
    "category": "news",
    "region": "INTL",
    "rank": 8,
    "extra": {
-    "published": "Thu, 26 Nov 2026 13:02:24 +0000"
+    "published": "Thu, 26 Nov 2026 20:31:50 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Eyewitnesses describe scenes of Egypt’s deadly vehicle fire",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/eyewitnesses-describe-scenes-of-egypts-deadly-vehicle-fire?traffic_source=rss",
+   "title": "Musk pledges two SpaceX shares for every US child",
+   "url": "https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child?traffic_source=rss",
    "source": "Al Jazeera",
    "sourceId": "aljazeera",
    "category": "news",
    "region": "INTL",
    "rank": 9,
    "extra": {
-    "published": "Thu, 26 Nov 2026 12:34:10 +0000"
+    "published": "Thu, 26 Nov 2026 20:19:22 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "FIFA says personal and business information stolen in cyberattack",
-   "url": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss",
+   "title": "Peru burns more than 10 tonnes of seized drugs",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/peru-burns-more-than-10-tonnes-of-seized-drugs?traffic_source=rss",
    "source": "Al Jazeera",
    "sourceId": "aljazeera",
    "category": "news",
    "region": "INTL",
    "rank": 10,
    "extra": {
-    "published": "Thu, 26 Nov 2026 12:31:46 +0000"
+    "published": "Thu, 26 Nov 2026 19:44:05 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Mother of drug war victims set to observe Duterte's ICC proceedings in The Hague",
-   "url": "https://www.gmanetwork.com/news/topstories/nation/1010897/mother-of-drug-war-victims-set-to-observe-duterte-s-icc-proceedings-in-the-hague/story/",
+   "title": "Agence France Presse hit by cyber attack",
+   "url": "https://www.gmanetwork.com/news/topstories/world/1010916/agence-france-presse-hit-by-cyber-attack/story/",
    "source": "GMA News",
    "sourceId": "gma",
    "category": "news",
    "region": "PH",
    "rank": 1,
    "extra": {
-    "published": "Thu, 26 Nov 2026 22:37:22 +0800"
+    "published": "Fri, 27 Nov 2026 06:28:02 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Mungkahing tax sa kape, magiging 'dead on arrival' sa Kamara, ayon kay Rep. Quimbo",
-   "url": "https://www.gmanetwork.com/news/balitambayan/balita/1010896/mungkahing-tax-sa-kape-magiging-dead-on-arrival-sa-kamara-ayon-kay-rep-quimbo/story/",
+   "title": "Musk pledges two SpaceX shares for every US child",
+   "url": "https://www.gmanetwork.com/news/topstories/world/1010915/musk-pledges-two-spacex-shares-for-every-us-child/story/",
    "source": "GMA News",
    "sourceId": "gma",
    "category": "news",
    "region": "PH",
    "rank": 2,
    "extra": {
-    "published": "Thu, 26 Nov 2026 22:29:54 +0800"
+    "published": "Fri, 27 Nov 2026 06:07:09 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "VP Sara wants relentless crackdown on illegal drugs",
-   "url": "https://www.gmanetwork.com/news/topstories/nation/1010895/vp-sara-wants-relentless-crackdown-on-illegal-drugs/story/",
+   "title": "Catholic maritime ministry plans expanded port visit for seafarers and fishers support",
+   "url": "https://www.gmanetwork.com/news/topstories/nation/1010914/catholic-maritime-ministry-plans-expanded-port-visit-for-seafarers-and-fishers-support/story/",
    "source": "GMA News",
    "sourceId": "gma",
    "category": "news",
    "region": "PH",
    "rank": 3,
    "extra": {
-    "published": "Thu, 26 Nov 2026 22:20:33 +0800"
+    "published": "Fri, 27 Nov 2026 05:28:07 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Nicholas Ty takes oath as new Deputy Ombudsman",
-   "url": "https://www.gmanetwork.com/news/topstories/nation/1010893/nicholas-ty-takes-oath-as-new-deputy-ombudsman/story/",
+   "title": "Thanksgiving storm knocks out power, disrupts flights on US East Coast",
+   "url": "https://www.gmanetwork.com/news/topstories/world/1010913/thanksgiving-storm-knocks-out-power-disrupts-flights-on-us-east-coast/story/",
    "source": "GMA News",
    "sourceId": "gma",
    "category": "news",
    "region": "PH",
    "rank": 4,
    "extra": {
-    "published": "Thu, 26 Nov 2026 21:47:04 +0800"
+    "published": "Fri, 27 Nov 2026 04:48:56 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Nasa 30 katao, patay sa sunog matapos maaksidente ang sasakyang may kargang petrolyo sa Egypt",
-   "url": "https://www.gmanetwork.com/news/balitambayan/balita/1010891/nasa-30-katao-patay-sa-sunog-matapos-maaksidente-ang-sasakyang-may-kargang-petrolyo-sa-egypt/story/",
+   "title": "LTO issues SCO against pickup truck driver in Pasig City viral road rage incident",
+   "url": "https://www.gmanetwork.com/news/topstories/metro/1010911/lto-issues-sco-against-pickup-truck-driver-in-pasig-city-viral-road-rage-incident/story/",
    "source": "GMA News",
    "sourceId": "gma",
    "category": "news",
    "region": "PH",
    "rank": 5,
    "extra": {
-    "published": "Thu, 26 Nov 2026 21:36:06 +0800"
+    "published": "Fri, 27 Nov 2026 03:31:02 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "CHR maintains stance vs. abortion except in extreme cases",
-   "url": "https://www.gmanetwork.com/news/topstories/nation/1010890/maintains-stance-vs-abortion-except-in-extreme-cases/story/",
+   "title": "Vehicle owner and driver, who blocked fire truck to face LTO inquiry",
+   "url": "https://www.gmanetwork.com/news/topstories/metro/1010910/vehicle-and-driver-who-blocked-fire-truck-to-face-lto-inquiry/story/",
    "source": "GMA News",
    "sourceId": "gma",
    "category": "news",
    "region": "PH",
    "rank": 6,
    "extra": {
-    "published": "Thu, 26 Nov 2026 21:32:02 +0800"
+    "published": "Fri, 27 Nov 2026 02:21:15 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "WALANG PASOK: Mga suspendidong klase sa Biyernes, November 27, 2026",
-   "url": "https://www.gmanetwork.com/news/balitambayan/balita/1010881/walang-pasok-mga-suspendidong-klase-sa-biyernes-november-27-2026/story/",
+   "title": "Bagong pinuno ng LTO, itinuloy ang pagpapalabas ng SCO, pagsuspinde sa lisensiya ng mga 'pasaway' na motorista",
+   "url": "https://www.gmanetwork.com/news/balitambayan/balita/1010909/bagong-pinuno-ng-lto-itinuloy-ang-pagpapalabas-ng-sco-pagsuspinde-sa-lisensiya-ng-mga-pasaway-na/story/",
    "source": "GMA News",
    "sourceId": "gma",
    "category": "news",
    "region": "PH",
    "rank": 7,
    "extra": {
-    "published": "Thu, 26 Nov 2026 20:08:22 +0800"
+    "published": "Fri, 27 Nov 2026 01:38:41 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Crew member dies after diesel tanker capsizes off Ibiza, no pollution so far",
-   "url": "https://www.gmanetwork.com/news/topstories/world/1010878/crew-member-dies-after-diesel-tanker-sinks-off-ibiza/story/",
+   "title": "Ukraine says North Korea temporarily halted missile shipments to ally Russia",
+   "url": "https://www.gmanetwork.com/news/topstories/world/1010870/ukraine-says-north-korea-temporarily-halted-missile-shipments-to-ally-russia/story/",
    "source": "GMA News",
    "sourceId": "gma",
    "category": "news",
    "region": "PH",
    "rank": 8,
    "extra": {
-    "published": "Thu, 26 Nov 2026 19:51:57 +0800"
+    "published": "Fri, 27 Nov 2026 01:23:26 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "LTFRB probes inDrive operator after toll dispute",
-   "url": "https://www.gmanetwork.com/news/topstories/metro/1010880/ltfrb-probes-indrive-operator-after-toll-fee-dispute/story/",
+   "title": "Rodrigo Duterte camp discloses 63-item evidence batch ahead of ICC trial",
+   "url": "https://www.gmanetwork.com/news/topstories/nation/1010906/rodrigo-duterte-camp-discloses-63-item-evidence-batch-ahead-of-icc-trial/story/",
    "source": "GMA News",
    "sourceId": "gma",
    "category": "news",
    "region": "PH",
    "rank": 9,
    "extra": {
-    "published": "Thu, 26 Nov 2026 19:47:30 +0800"
+    "published": "Fri, 27 Nov 2026 01:06:22 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Bilib sa mga Pinoy: Automotive firm sa Czech Republic, balak magdagdag ng Pinoy workers",
-   "url": "https://www.gmanetwork.com/news/balitambayan/pinoyabroad/1010877/bilib-sa-mga-pinoy-automotive-firm-sa-czech-republic-balak-magdagdag-ng-pinoy-workers/story/",
+   "title": "2 kambing na ninakaw, ibinenta; nakabili, isinauli ang mga kambing pero 'di na nabawi ang pera niya",
+   "url": "https://www.gmanetwork.com/news/balitambayan/promdi/1010908/2-kambing-na-ninakaw-ibinenta-nakabili-isinauli-ang-mga-kambing-pero-di-na-nabawi-ang-pera-niya/story/",
    "source": "GMA News",
    "sourceId": "gma",
    "category": "news",
    "region": "PH",
    "rank": 10,
    "extra": {
-    "published": "Thu, 26 Nov 2026 19:13:34 +0800"
+    "published": "Fri, 27 Nov 2026 00:49:09 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "PVL: Robins-Hardy gets one last Finals run before retirement",
-   "url": "https://sports.inquirer.net/708821/pvl-robins-hardy-gets-one-last-finals-run-before-retirement",
+   "title": "Indonesia mine flood death toll rises to 13, with over a dozen missing",
+   "url": "https://globalnation.inquirer.net/350070/indonesia-mine-flood-death-toll-rises-to-13-with-over-a-dozen-missing",
    "source": "Inquirer.net",
    "sourceId": "inquirer",
    "category": "news",
    "region": "PH",
    "rank": 1,
    "extra": {
-    "published": "Thu, 26 Nov 2026 22:20:30 +0800"
+    "published": "Fri, 27 Nov 2026 07:15:48 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "ASF in Samboan; veterinary office steps up surveillance, containment",
-   "url": "https://cebudailynews.inquirer.net/788482/asf-confirmed-in-samboan-province-steps-up-surveillance-containment",
+   "title": "3 killed in motorcycle collision in Nueva Vizcaya",
+   "url": "https://newsinfo.inquirer.net/2347947/3-killed-in-motorcycle-collision-in-nueva-vizcaya",
    "source": "Inquirer.net",
    "sourceId": "inquirer",
    "category": "news",
    "region": "PH",
    "rank": 2,
    "extra": {
-    "published": "Thu, 26 Nov 2026 22:11:22 +0800"
+    "published": "Fri, 27 Nov 2026 07:02:30 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Super Lotto 6/49, Lotto 6/42 draw results on Thursday, Nov. 26",
-   "url": "https://newsinfo.inquirer.net/2347796/super-lotto-6-49-lotto-6-42-draw-results-on-thursday-nov-26",
+   "title": "VP Duterte dodges impeach questions as she faces Senate on OVP budget",
+   "url": "https://cebudailynews.inquirer.net/788520/vp-duterte-dodges-impeach-questions-as-she-faces-senate-on-ovp-budget",
    "source": "Inquirer.net",
    "sourceId": "inquirer",
    "category": "news",
    "region": "PH",
    "rank": 3,
    "extra": {
-    "published": "Thu, 26 Nov 2026 21:54:00 +0800"
+    "published": "Fri, 27 Nov 2026 06:58:48 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "NCAA: EAC ready for another tough battle vs San Beda in decider",
-   "url": "https://sports.inquirer.net/708789/ncaa-eac-ready-for-another-tough-battle-vs-san-beda-in-decider",
+   "title": "Police seize IED, 8 M203 grenades in Masbate",
+   "url": "https://newsinfo.inquirer.net/2347945/police-seize-ied-8-m203-grenades-in-masbate",
    "source": "Inquirer.net",
    "sourceId": "inquirer",
    "category": "news",
    "region": "PH",
    "rank": 4,
    "extra": {
-    "published": "Thu, 26 Nov 2026 21:53:57 +0800"
+    "published": "Fri, 27 Nov 2026 06:54:40 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Victim’s ex-partner tagged in Bukidnon couple slay",
-   "url": "https://cebudailynews.inquirer.net/788498/victims-ex-partner-tagged-in-bukidnon-couple-slay",
+   "title": "Worker killed, 8 others hurt in Antipolo City tunnel accident",
+   "url": "https://newsinfo.inquirer.net/2347943/worker-killed-8-others-hurt-in-antipolo-city-tunnel-accident",
    "source": "Inquirer.net",
    "sourceId": "inquirer",
    "category": "news",
    "region": "PH",
    "rank": 5,
    "extra": {
-    "published": "Thu, 26 Nov 2026 21:50:12 +0800"
+    "published": "Fri, 27 Nov 2026 06:46:59 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Ex-LandBank officials, businessman face graft over loan irregularities",
-   "url": "https://cebudailynews.inquirer.net/788492/ex-landbank-officials-businessman-face-graft-over-loan-irregularities",
+   "title": "Fashionable presents for sporty princesses",
+   "url": "https://lifestyle.inquirer.net/586841/fashionable-presents-for-sporty-princesses/",
    "source": "Inquirer.net",
    "sourceId": "inquirer",
    "category": "news",
    "region": "PH",
    "rank": 6,
    "extra": {
-    "published": "Thu, 26 Nov 2026 21:44:41 +0800"
+    "published": "Fri, 27 Nov 2026 06:45:00 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Explosion rocks Bangkok oil facility, leaves nine injured",
-   "url": "https://cebudailynews.inquirer.net/788489/explosion-rocks-bangkok-oil-facility-leaves-nine-injured",
+   "title": "Going the extra mile: A gift guide for runners",
+   "url": "https://lifestyle.inquirer.net/586843/going-the-extra-mile-a-gift-guide-for-runners/",
    "source": "Inquirer.net",
    "sourceId": "inquirer",
    "category": "news",
    "region": "PH",
    "rank": 7,
    "extra": {
-    "published": "Thu, 26 Nov 2026 21:28:18 +0800"
+    "published": "Fri, 27 Nov 2026 06:30:00 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Couple shot dead in Bukidnon by one of victim's ex-partner",
-   "url": "https://newsinfo.inquirer.net/2347782/couple-shot-dead-in-bukidnon-by-one-of-victims-ex-partner",
+   "title": "Heavy rain, wind, flooding plague much of US on Thanksgiving holiday",
+   "url": "https://globalnation.inquirer.net/350067/heavy-rain-wind-flooding-plague-much-of-us-on-thanksgiving-holiday",
    "source": "Inquirer.net",
    "sourceId": "inquirer",
    "category": "news",
    "region": "PH",
    "rank": 8,
    "extra": {
-    "published": "Thu, 26 Nov 2026 21:27:04 +0800"
+    "published": "Fri, 27 Nov 2026 06:28:48 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "PH boys doubles team makes winning debut in U19 sepak takraw",
-   "url": "https://sports.inquirer.net/708798/ph-boys-doubles-team-makes-winning-debut-in-u19-sepak-takraw",
+   "title": "Spain races to stop oil spill after ship capsizes off Ibiza",
+   "url": "https://cebudailynews.inquirer.net/788517/spain-races-to-stop-oil-spill-after-ship-capsizes-off-ibiza",
    "source": "Inquirer.net",
    "sourceId": "inquirer",
    "category": "news",
    "region": "PH",
    "rank": 9,
    "extra": {
-    "published": "Thu, 26 Nov 2026 21:22:12 +0800"
+    "published": "Fri, 27 Nov 2026 06:19:03 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "PVL: Farm Fresh ousts top seed Nxled for historic Finals berth",
-   "url": "https://sports.inquirer.net/708773/pvl-farm-fresh-ousts-top-seed-nxled-for-historic-finals-berth",
+   "title": "New York postpones Thanksgiving parade as storm hits US East Coast",
+   "url": "https://globalnation.inquirer.net/350064/new-york-postpones-thanksgiving-parade-as-storm-hits-us-east-coast",
    "source": "Inquirer.net",
    "sourceId": "inquirer",
    "category": "news",
    "region": "PH",
    "rank": 10,
    "extra": {
-    "published": "Thu, 26 Nov 2026 21:13:40 +0800"
+    "published": "Fri, 27 Nov 2026 06:15:35 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Defense to present VP Sara Duterte's dentist, Cale88 co-owner at impeachment hearing",
-   "url": "https://www.philstar.com/headlines/2026/11/26/2572821/defense-present-vp-sara-dutertes-dentist-cale88-co-owner-impeachment-hearing",
+   "title": "‘Food insecurity, poor sleep linked’",
+   "url": "https://www.philstar.com/headlines/2026/11/27/2572909/food-insecurity-poor-sleep-linked",
    "source": "Philstar",
    "sourceId": "philstar",
    "category": "news",
    "region": "PH",
    "rank": 1,
    "extra": {
-    "published": "Thu, 26 Nov 2026 17:49:00 +0800"
+    "published": "Fri, 27 Nov 2026 00:00:00 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Over 1,800 inmate records await review for parole, clemency",
-   "url": "https://www.philstar.com/headlines/2026/11/26/2572815/over-1800-inmate-records-await-review-parole-clemency",
+   "title": "Sandigan to NBI: Bring Romualdez co-accused to court",
+   "url": "https://www.philstar.com/headlines/2026/11/27/2572912/sandigan-nbi-bring-romualdez-co-accused-court",
    "source": "Philstar",
    "sourceId": "philstar",
    "category": "news",
    "region": "PH",
    "rank": 2,
    "extra": {
-    "published": "Thu, 26 Nov 2026 17:10:00 +0800"
+    "published": "Fri, 27 Nov 2026 00:00:00 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Labor group decries AirAsia's layoff of 90 pilots amid union drive",
-   "url": "https://www.philstar.com/headlines/2026/11/26/2572809/labor-group-decries-airasias-layoff-90-pilots-amid-union-drive",
+   "title": "JV eyes restoration of P130 billion for 2027 infra projects",
+   "url": "https://www.philstar.com/headlines/2026/11/27/2572915/jv-eyes-restoration-p130-billion-2027-infra-projects",
    "source": "Philstar",
    "sourceId": "philstar",
    "category": "news",
    "region": "PH",
    "rank": 3,
    "extra": {
-    "published": "Thu, 26 Nov 2026 16:28:00 +0800"
+    "published": "Fri, 27 Nov 2026 00:00:00 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Security guards are public figures in libel cases — Supreme Court",
-   "url": "https://www.philstar.com/headlines/2026/11/26/2572796/security-guards-are-public-figures-libel-cases-supreme-court",
+   "title": "Marcos commits to science, technology investments",
+   "url": "https://www.philstar.com/headlines/2026/11/27/2572920/marcos-commits-science-technology-investments",
    "source": "Philstar",
    "sourceId": "philstar",
    "category": "news",
    "region": "PH",
    "rank": 4,
    "extra": {
-    "published": "Thu, 26 Nov 2026 16:23:00 +0800"
+    "published": "Fri, 27 Nov 2026 00:00:00 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Tax on coffee? Agri group objects",
-   "url": "https://www.philstar.com/headlines/2026/11/26/2572795/tax-coffee-agri-group-objects",
+   "title": "Marcos joins AFP boodle fight",
+   "url": "https://www.philstar.com/headlines/2026/11/27/2572922/marcos-joins-afp-boodle-fight",
    "source": "Philstar",
    "sourceId": "philstar",
    "category": "news",
    "region": "PH",
    "rank": 5,
    "extra": {
-    "published": "Thu, 26 Nov 2026 16:17:00 +0800"
+    "published": "Fri, 27 Nov 2026 00:00:00 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "LTFRB cites legal exemption allowing foreign-owned EV ride-hailing service in PH",
-   "url": "https://www.philstar.com/headlines/2026/11/26/2572784/ltfrb-cites-legal-exemption-allowing-foreign-owned-ev-ride-hailing-service-ph",
+   "title": "Palace: Duterte arrest, ICC turnover in line with Philippines laws",
+   "url": "https://www.philstar.com/headlines/2026/11/27/2572925/palace-duterte-arrest-icc-turnover-line-philippines-laws",
    "source": "Philstar",
    "sourceId": "philstar",
    "category": "news",
    "region": "PH",
    "rank": 6,
    "extra": {
-    "published": "Thu, 26 Nov 2026 15:03:00 +0800"
+    "published": "Fri, 27 Nov 2026 00:00:00 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "'99.9% of Filipinos unharmed': Duterte camp previews ICC defense ahead of trial",
-   "url": "https://www.philstar.com/headlines/2026/11/26/2572788/999-filipinos-unharmed-duterte-camp-previews-icc-defense-ahead-trial",
+   "title": "Repeated cancellation of impeach hearings hit",
+   "url": "https://www.philstar.com/headlines/2026/11/27/2572932/repeated-cancellation-impeach-hearings-hit",
    "source": "Philstar",
    "sourceId": "philstar",
    "category": "news",
    "region": "PH",
    "rank": 7,
    "extra": {
-    "published": "Thu, 26 Nov 2026 13:04:00 +0800"
+    "published": "Fri, 27 Nov 2026 00:00:00 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Ombudsman upholds graft raps vs ex-Bohol mayor over Christmas tree billboard",
-   "url": "https://www.philstar.com/headlines/2026/11/26/2572781/ombudsman-upholds-graft-raps-vs-ex-bohol-mayor-over-christmas-tree-billboard",
+   "title": "Marcos welcomes ‘old friend’ as Mandarin reopens",
+   "url": "https://www.philstar.com/headlines/2026/11/27/2572936/marcos-welcomes-old-friend-mandarin-reopens",
    "source": "Philstar",
    "sourceId": "philstar",
    "category": "news",
    "region": "PH",
    "rank": 8,
    "extra": {
-    "published": "Thu, 26 Nov 2026 12:10:00 +0800"
+    "published": "Fri, 27 Nov 2026 00:00:00 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Crisis aid, medical assistance funds eyed for PhilHealth",
-   "url": "https://www.philstar.com/headlines/2026/11/26/2572777/crisis-aid-medical-assistance-funds-eyed-philhealth",
+   "title": "‘Coffee tax dead in the water’",
+   "url": "https://www.philstar.com/headlines/2026/11/27/2572940/coffee-tax-dead-water",
    "source": "Philstar",
    "sourceId": "philstar",
    "category": "news",
    "region": "PH",
    "rank": 9,
    "extra": {
-    "published": "Thu, 26 Nov 2026 11:37:00 +0800"
+    "published": "Fri, 27 Nov 2026 00:00:00 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "DAR earmarks P600 million for El Niño response in 2027",
-   "url": "https://www.philstar.com/business/2026/11/26/2572594/dar-earmarks-p600-million-el-nio-response-2027",
+   "title": "Philippines seeks 6 Chinooks under US loan package",
+   "url": "https://www.philstar.com/headlines/2026/11/27/2572953/philippines-seeks-6-chinooks-under-us-loan-package",
    "source": "Philstar",
    "sourceId": "philstar",
    "category": "news",
    "region": "PH",
    "rank": 10,
    "extra": {
-    "published": "Thu, 26 Nov 2026 07:58:00 +0800"
+    "published": "Fri, 27 Nov 2026 00:00:00 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
+  },
+  {
+   "title": "[Market Rider] PSE’s 2027 rebalancing: Will it unlock broader market activity?",
+   "url": "https://www.rappler.com/business/market-rider-pse-2027-rebalancing-will-unlock-broader-stock-activity/",
+   "source": "Rappler",
+   "sourceId": "rappler",
+   "category": "news",
+   "region": "PH",
+   "rank": 1,
+   "extra": {
+    "published": "Fri, 27 Nov 2026 07:00:00 +0800"
+   },
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
+  },
+  {
+   "title": "Senate approves OVP 2027 budget in one minute | The wRap",
+   "url": "https://www.rappler.com/video/daily-wrap/november-26-2026/",
+   "source": "Rappler",
+   "sourceId": "rappler",
+   "category": "news",
+   "region": "PH",
+   "rank": 2,
+   "extra": {
+    "published": "Thu, 26 Nov 2026 22:00:00 +0800"
+   },
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Muni Network: Newsrooms unite against AI disruption",
@@ -1267,11 +1293,11 @@
    "sourceId": "rappler",
    "category": "news",
    "region": "PH",
-   "rank": 1,
+   "rank": 3,
    "extra": {
     "published": "Thu, 26 Nov 2026 21:43:54 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Ex-Cale88 co-owner, BOC official to testify in Sara Duterte impeachment trial",
@@ -1280,11 +1306,11 @@
    "sourceId": "rappler",
    "category": "news",
    "region": "PH",
-   "rank": 2,
+   "rank": 4,
    "extra": {
     "published": "Thu, 26 Nov 2026 21:24:04 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "When bicam convenes for 2027 budget, advocates want to be in the room",
@@ -1293,11 +1319,11 @@
    "sourceId": "rappler",
    "category": "news",
    "region": "PH",
-   "rank": 3,
+   "rank": 5,
    "extra": {
     "published": "Thu, 26 Nov 2026 19:16:18 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "[OPINION] Slowly but surely, Washington drifts away from Asia",
@@ -1306,11 +1332,11 @@
    "sourceId": "rappler",
    "category": "news",
    "region": "PH",
-   "rank": 4,
+   "rank": 6,
    "extra": {
     "published": "Thu, 26 Nov 2026 19:00:00 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Lacson asks: Why settle unpaid 2024 DSWD guarantee letters in 2027?",
@@ -1319,11 +1345,11 @@
    "sourceId": "rappler",
    "category": "news",
    "region": "PH",
-   "rank": 5,
+   "rank": 7,
    "extra": {
     "published": "Thu, 26 Nov 2026 18:05:21 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "1Password customer data, source code taken in GitHub breach",
@@ -1332,11 +1358,11 @@
    "sourceId": "rappler",
    "category": "news",
    "region": "PH",
-   "rank": 6,
+   "rank": 8,
    "extra": {
     "published": "Thu, 26 Nov 2026 18:02:29 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Excise tax on your coffee? House leader shuts down suggestion",
@@ -1345,11 +1371,11 @@
    "sourceId": "rappler",
    "category": "news",
    "region": "PH",
-   "rank": 7,
+   "rank": 9,
    "extra": {
     "published": "Thu, 26 Nov 2026 18:01:56 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "[READOUT] What businesses can get out of ASEAN 2026",
@@ -1358,37 +1384,25 @@
    "sourceId": "rappler",
    "category": "news",
    "region": "PH",
-   "rank": 8,
+   "rank": 10,
    "extra": {
     "published": "Thu, 26 Nov 2026 18:00:00 +0800"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "News Reflection: President Marcos could not keep his guest waiting",
-   "url": "https://www.rappler.com/voices/thought-leaders/news-reflection-ferdinand-marcos-jr-donald-trump-manila-visit/",
-   "source": "Rappler",
-   "sourceId": "rappler",
-   "category": "news",
+   "title": "M4.5 - 95 km SSE of Sarangani, Philippines",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udqa",
+   "source": "USGS Earthquakes (PH area)",
+   "sourceId": "usgs-ph",
+   "category": "disaster",
    "region": "PH",
-   "rank": 9,
+   "rank": 1,
    "extra": {
-    "published": "Thu, 26 Nov 2026 17:47:56 +0800"
+    "mag": 4.5,
+    "time": 1795709880760
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
-  },
-  {
-   "title": "Why did Mandaluyong buy 27 cars worth over P1 million each for barangays?",
-   "url": "https://www.rappler.com/newsbreak/inside-track/mandaluyong-hybrid-car-purchase-for-barangays/",
-   "source": "Rappler",
-   "sourceId": "rappler",
-   "category": "news",
-   "region": "PH",
-   "rank": 10,
-   "extra": {
-    "published": "Thu, 26 Nov 2026 17:13:45 +0800"
-   },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "USD/PHP 63.67",
@@ -1401,111 +1415,176 @@
    "extra": {
     "rate": 63.666286
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
-   "url": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
+   "title": "Netflix’s coziest show has made a very quiet return",
+   "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
    "source": "The Verge",
    "sourceId": "verge",
    "category": "tech",
    "region": "INTL",
    "rank": 1,
    "extra": {
-    "published": "2026-11-25T15:47:55-05:00"
+    "published": "2026-11-26T15:50:57-05:00"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Samsung’s R95H TV shows what RGB LED is capable of",
-   "url": "https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review",
+   "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+   "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
    "source": "The Verge",
    "sourceId": "verge",
    "category": "tech",
    "region": "INTL",
    "rank": 2,
    "extra": {
-    "published": "2026-11-25T17:05:18-05:00"
+    "published": "2026-11-26T11:56:43-05:00"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Waymo conquered city streets — why does it keep stumbling on freeways?",
-   "url": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
+   "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+   "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
    "source": "The Verge",
    "sourceId": "verge",
    "category": "tech",
    "region": "INTL",
    "rank": 3,
    "extra": {
-    "published": "2026-11-25T11:14:38-05:00"
+    "published": "2026-11-26T12:15:53-05:00"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "X is finally getting its first parental controls",
-   "url": "https://www.theverge.com/news/1043078/x-parental-controls-features",
+   "title": "Android app developers will soon have to share their address publicly",
+   "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
    "source": "The Verge",
    "sourceId": "verge",
    "category": "tech",
    "region": "INTL",
    "rank": 4,
    "extra": {
-    "published": "2026-11-26T05:45:50-05:00"
+    "published": "2026-11-26T13:19:32-05:00"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-   "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+   "title": "The best Black Friday deals we’ve already found",
+   "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
    "source": "The Verge",
    "sourceId": "verge",
    "category": "tech",
    "region": "INTL",
    "rank": 5,
    "extra": {
-    "published": "2026-11-26T04:54:40-05:00"
+    "published": "2026-11-26T14:20:49-05:00"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-   "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+   "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+   "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
    "source": "The Verge",
    "sourceId": "verge",
    "category": "tech",
    "region": "INTL",
    "rank": 6,
    "extra": {
-    "published": "2026-11-25T19:04:34-05:00"
+    "published": "2026-11-26T11:38:00-05:00"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Amazon loses its latest attempt to get out of handling more recall notices",
-   "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+   "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+   "url": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
    "source": "The Verge",
    "sourceId": "verge",
    "category": "tech",
    "region": "INTL",
    "rank": 7,
    "extra": {
-    "published": "2026-11-25T21:53:40-05:00"
+    "published": "2026-11-25T20:29:46-05:00"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-   "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+   "title": "GTA VI developers vote against unionization",
+   "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
    "source": "The Verge",
    "sourceId": "verge",
    "category": "tech",
    "region": "INTL",
    "rank": 8,
    "extra": {
-    "published": "2026-11-25T16:51:26-05:00"
+    "published": "2026-11-26T10:55:24-05:00"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
+  },
+  {
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+   "source": "TechCrunch",
+   "sourceId": "techcrunch",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 1,
+   "extra": {
+    "published": "Thu, 26 Nov 2026 20:03:54 +0000"
+   },
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
+  },
+  {
+   "title": "Is Alice Huang a spy or not?",
+   "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+   "source": "TechCrunch",
+   "sourceId": "techcrunch",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 2,
+   "extra": {
+    "published": "Thu, 26 Nov 2026 20:00:00 +0000"
+   },
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
+  },
+  {
+   "title": "X finally gets parental controls after 20 years",
+   "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+   "source": "TechCrunch",
+   "sourceId": "techcrunch",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 3,
+   "extra": {
+    "published": "Thu, 26 Nov 2026 19:31:50 +0000"
+   },
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
+  },
+  {
+   "title": "A month with the iPhone Duo has changed how I use my phone",
+   "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+   "source": "TechCrunch",
+   "sourceId": "techcrunch",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 4,
+   "extra": {
+    "published": "Thu, 26 Nov 2026 17:00:00 +0000"
+   },
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
+  },
+  {
+   "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+   "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+   "source": "TechCrunch",
+   "sourceId": "techcrunch",
+   "category": "tech",
+   "region": "INTL",
+   "rank": 5,
+   "extra": {
+    "published": "Thu, 26 Nov 2026 16:00:00 +0000"
+   },
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
@@ -1514,11 +1593,11 @@
    "sourceId": "techcrunch",
    "category": "tech",
    "region": "INTL",
-   "rank": 1,
+   "rank": 6,
    "extra": {
     "published": "Wed, 25 Nov 2026 22:44:32 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "FCC approves SpaceX plan to put AI data centers in space",
@@ -1527,11 +1606,11 @@
    "sourceId": "techcrunch",
    "category": "tech",
    "region": "INTL",
-   "rank": 2,
+   "rank": 7,
    "extra": {
     "published": "Wed, 25 Nov 2026 20:56:44 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
@@ -1540,76 +1619,24 @@
    "sourceId": "techcrunch",
    "category": "tech",
    "region": "INTL",
-   "rank": 3,
+   "rank": 8,
    "extra": {
     "published": "Wed, 25 Nov 2026 20:03:27 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-   "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-   "source": "TechCrunch",
-   "sourceId": "techcrunch",
+   "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+   "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+   "source": "Ars Technica",
+   "sourceId": "ars",
    "category": "tech",
    "region": "INTL",
-   "rank": 4,
+   "rank": 1,
    "extra": {
-    "published": "Wed, 25 Nov 2026 19:54:57 +0000"
+    "published": "Thu, 26 Nov 2026 18:00:29 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
-  },
-  {
-   "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
-   "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
-   "source": "TechCrunch",
-   "sourceId": "techcrunch",
-   "category": "tech",
-   "region": "INTL",
-   "rank": 5,
-   "extra": {
-    "published": "Wed, 25 Nov 2026 19:54:32 +0000"
-   },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
-  },
-  {
-   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-   "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-   "source": "TechCrunch",
-   "sourceId": "techcrunch",
-   "category": "tech",
-   "region": "INTL",
-   "rank": 6,
-   "extra": {
-    "published": "Wed, 25 Nov 2026 19:44:24 +0000"
-   },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
-  },
-  {
-   "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
-   "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
-   "source": "TechCrunch",
-   "sourceId": "techcrunch",
-   "category": "tech",
-   "region": "INTL",
-   "rank": 7,
-   "extra": {
-    "published": "Wed, 25 Nov 2026 18:49:52 +0000"
-   },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
-  },
-  {
-   "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-   "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-   "source": "TechCrunch",
-   "sourceId": "techcrunch",
-   "category": "tech",
-   "region": "INTL",
-   "rank": 8,
-   "extra": {
-    "published": "Wed, 25 Nov 2026 18:11:46 +0000"
-   },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Draining peatlands is responsible for a few percent of our global warming",
@@ -1618,11 +1645,11 @@
    "sourceId": "ars",
    "category": "tech",
    "region": "INTL",
-   "rank": 1,
+   "rank": 2,
    "extra": {
     "published": "Thu, 26 Nov 2026 12:15:42 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "From minimalist to maximalist: Ars staffers show off their home offices",
@@ -1631,11 +1658,11 @@
    "sourceId": "ars",
    "category": "tech",
    "region": "INTL",
-   "rank": 2,
+   "rank": 3,
    "extra": {
     "published": "Thu, 26 Nov 2026 12:00:14 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
@@ -1644,11 +1671,11 @@
    "sourceId": "ars",
    "category": "tech",
    "region": "INTL",
-   "rank": 3,
+   "rank": 4,
    "extra": {
     "published": "Wed, 25 Nov 2026 22:36:45 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Google search alternative Kagi launches Gmail rival",
@@ -1657,11 +1684,11 @@
    "sourceId": "ars",
    "category": "tech",
    "region": "INTL",
-   "rank": 4,
+   "rank": 5,
    "extra": {
     "published": "Wed, 25 Nov 2026 20:57:09 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Backblaze explains why it's sharing customer information with advertisers",
@@ -1670,11 +1697,11 @@
    "sourceId": "ars",
    "category": "tech",
    "region": "INTL",
-   "rank": 5,
+   "rank": 6,
    "extra": {
     "published": "Wed, 25 Nov 2026 18:38:29 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
@@ -1683,11 +1710,11 @@
    "sourceId": "ars",
    "category": "tech",
    "region": "INTL",
-   "rank": 6,
+   "rank": 7,
    "extra": {
     "published": "Wed, 25 Nov 2026 18:22:38 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
    "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
@@ -1696,128 +1723,115 @@
    "sourceId": "ars",
    "category": "tech",
    "region": "INTL",
-   "rank": 7,
+   "rank": 8,
    "extra": {
     "published": "Wed, 25 Nov 2026 17:33:30 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Etsy clarifies AI terms after seller backlash",
-   "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
-   "source": "Ars Technica",
-   "sourceId": "ars",
-   "category": "tech",
-   "region": "INTL",
-   "rank": 8,
-   "extra": {
-    "published": "Wed, 25 Nov 2026 17:12:57 +0000"
-   },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
-  },
-  {
-   "title": "Gérard Depardieu to Stand Trial for Rape Charges After Failed Appeal",
-   "url": "https://variety.com/2026/film/global/gerard-depardieu-trial-rape-charges-failed-appeal-1236958940/",
+   "title": "Asha Bhosle and S. Janaki Remembered by Singer K.S. Chithra and Suhasini Maniratnam at IFFI’s Lata Mangeshkar Talk",
+   "url": "https://variety.com/2026/film/festivals/asha-bhosle-s-janaki-ks-chithra-suhasini-iffi-1236959192/",
    "source": "Variety",
    "sourceId": "variety",
    "category": "entertainment",
    "region": "INTL",
    "rank": 1,
    "extra": {
-    "published": "Thu, 26 Nov 2026 14:23:34 +0000"
+    "published": "Thu, 26 Nov 2026 22:34:41 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "India Targets at Least 10 Million AI Workers Through National AI Talent Mission, WAVES Film Bazaar Panel Hears",
-   "url": "https://variety.com/2026/digital/markets-festivals/india-targets-10-million-ai-workers-waves-film-bazaar-1236958927/",
+   "title": "Jesse Plemons on the ‘Honor’ of Playing Plutarch in ‘The Hunger Games’ After Philip Seymour Hoffman and Debating Director Francis Lawrence Over the Character’s Motivations",
+   "url": "https://variety.com/2026/film/features/hunger-games-jesse-plemons-philip-seymour-hoffman-plutarch-1236957335/",
    "source": "Variety",
    "sourceId": "variety",
    "category": "entertainment",
    "region": "INTL",
    "rank": 2,
    "extra": {
-    "published": "Thu, 26 Nov 2026 12:50:50 +0000"
+    "published": "Thu, 26 Nov 2026 22:30:37 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "BBC Set to Be Investigated Over Antisemitism as Former Producer Says: ‘It Is a Hostile Environment for Jews Who Want to Be Openly Jewish’",
-   "url": "https://variety.com/2026/tv/global/bbc-investigation-antisemitism-lord-mann-1236958910/",
+   "title": "John Travolta Didn’t Recognize Himself as Alleged JFK Assassin Johnny Roselli in ‘November 1963’: ‘I Went, “Oh My God, He’s the Devil”’",
+   "url": "https://variety.com/2026/film/festivals/john-travolta-jfk-assassin-johnny-roselli-november-1963-1236959137/",
    "source": "Variety",
    "sourceId": "variety",
    "category": "entertainment",
    "region": "INTL",
    "rank": 3,
    "extra": {
-    "published": "Thu, 26 Nov 2026 12:33:00 +0000"
+    "published": "Thu, 26 Nov 2026 22:05:47 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Qatar Is Forging Ahead With Film and TV Industry Plan, Undeterred by Regional Turbulence",
-   "url": "https://variety.com/2026/film/global/qatar-film-tv-industry-regional-turbulence-1236958826/",
+   "title": "Chiwetel Ejiofor on How Stephen Frears’ ‘Dirty Pretty Things’ Led Him to Fall in Love With Film",
+   "url": "https://variety.com/2026/film/awards/chiwetel-ejiofor-stephen-frears-dirty-pretty-things-1236959080/",
    "source": "Variety",
    "sourceId": "variety",
    "category": "entertainment",
    "region": "INTL",
    "rank": 4,
    "extra": {
-    "published": "Thu, 26 Nov 2026 12:17:28 +0000"
+    "published": "Thu, 26 Nov 2026 20:58:05 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "‘Ramayana’ Doubled Visitors at Kerala’s Jatayu Rock, Official Says as India Pitches Itself to Global Productions at WAVES Film Bazaar",
-   "url": "https://variety.com/2026/film/markets-festivals/ramayana-shoot-doubled-jatayu-rock-visitors-1236958905/",
+   "title": "Luca Guadagnino Wants Next Movie to Be a ‘Love Story,’ Confirms ‘American Psycho’ and ‘Separate Rooms’ Not Happening",
+   "url": "https://variety.com/2026/film/news/luca-guadagnino-next-movie-love-story-1236959119/",
    "source": "Variety",
    "sourceId": "variety",
    "category": "entertainment",
    "region": "INTL",
    "rank": 5,
    "extra": {
-    "published": "Thu, 26 Nov 2026 12:13:56 +0000"
+    "published": "Thu, 26 Nov 2026 20:47:42 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Huw Edwards Speaks Publicly About Conviction and Downfall for First Time in Channel 4 Doc: ‘I’d Lost the Plot’",
-   "url": "https://variety.com/2026/tv/global/huw-edwards-speaks-publicly-about-crimes-channel-4-doc-1236958880/",
+   "title": "What’s New on Netflix for December 2026",
+   "url": "https://variety.com/feature/whats-on-netflix-movies-shows-1203517873/",
    "source": "Variety",
    "sourceId": "variety",
    "category": "entertainment",
    "region": "INTL",
    "rank": 6,
    "extra": {
-    "published": "Thu, 26 Nov 2026 11:55:50 +0000"
+    "published": "Thu, 26 Nov 2026 20:35:00 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "‘Bandit Queen’ Sequel From Bobby Bedi, ‘Satluj’ Director Honey Trehan Targets Late 2027 or Early 2028 Release, Enters Casting (EXCLUSIVE)",
-   "url": "https://variety.com/2026/film/news/bandit-queen-sequel-bobby-bedi-honey-trehan-2027-28-release-1236958895/",
+   "title": "What’s New on Disney+ in December 2026",
+   "url": "https://variety.com/feature/whats-on-disney-plus-new-shows-movies-1203517920/",
    "source": "Variety",
    "sourceId": "variety",
    "category": "entertainment",
    "region": "INTL",
    "rank": 7,
    "extra": {
-    "published": "Thu, 26 Nov 2026 11:49:33 +0000"
+    "published": "Thu, 26 Nov 2026 20:20:00 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   },
   {
-   "title": "Richard Hammond Says He Was Approached About ‘Top Gear’ Return, but Decided: ‘No, I’m Too Old’",
-   "url": "https://variety.com/2026/tv/global/top-gear-richard-hammond-declined-return-1236958870/",
+   "title": "Jessy Moussallem’s ‘Faux Bijoux,’ Laila Abbas’ ‘America Is Behind the Door’ Take Top Prizes at Marrakech’s Atlas Workshops",
+   "url": "https://variety.com/2026/film/global/faux-bijoux-america-is-behind-the-door-prizes-atlas-workshops-1236959077/",
    "source": "Variety",
    "sourceId": "variety",
    "category": "entertainment",
    "region": "INTL",
    "rank": 8,
    "extra": {
-    "published": "Thu, 26 Nov 2026 11:33:02 +0000"
+    "published": "Thu, 26 Nov 2026 20:13:14 +0000"
    },
-   "fetchedAt": "2026-11-26T14:41:00+00:00"
+   "fetchedAt": "2026-11-26T23:28:27+00:00"
   }
  ]
 }
